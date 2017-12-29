@@ -17,11 +17,11 @@ export class App extends Component {
     } else {
       this.state = {operations: [
         {
-          source: "/Users/matthijs/Projects/ekotex-wizard/css/sourcefile.css",
-          target: "/Users/matthijs/Projects/ekotex-wizard/css/critical.css",
+          source: remote.app.getPath('home') + '/project-name/css/sourcefile.css',
+          target: remote.app.getPath('home') + '/project-name/css/critical.css',
           url: 'http://localhost/',
           active: true,
-          name: "Operation 1",
+          name: "Operation " + (this.state.operations.length + 1),
           running: false
         }
       ],
@@ -63,11 +63,12 @@ export class App extends Component {
   addOperation() {
     let operations = this.state.operations
     let currentOperation = {
-      source: remote.app.getPath('home') + '/sourcefile.css',
-      target: remote.app.getPath('home') + '/critical.css',
+      source: remote.app.getPath('home') + '/project-name/css/sourcefile.css',
+      target: remote.app.getPath('home') + '/project-name/css/critical.css',
       url: 'http://localhost',
       active: true,
-      name: "Operation " + (this.state.operations.length + 1)
+      name: "Operation " + (this.state.operations.length + 1),
+      running: false
     }
     operations.push(currentOperation)
 
@@ -207,7 +208,6 @@ export class App extends Component {
         </header>
 
         <div className="window-content">
-
           {ops && <ul className="tab">
             {ops.map((operation, index) => {
               return <li className={"tab-item" + (index === activeOp ? " active" : '')} key={index}>

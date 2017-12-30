@@ -22,7 +22,7 @@ export default async function(operation) {
   })
   .then(async (criticalCss) => {
     try {
-      // fs.writeFileSync(operation.target, criticalCss)
+      fs.writeFileSync(operation.target, criticalCss)
       console.log(`Completed compilation in ${(new Date().getTime() - startTimeMs)}ms`)
     } catch (err) {
       throw new Error(err)

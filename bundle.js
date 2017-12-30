@@ -818,9 +818,9 @@ module.exports = require("electron");
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.ZoomOut = exports.ZoomIn = exports.Zap = exports.X = exports.XSquare = exports.XCircle = exports.Wind = exports.Wifi = exports.WifiOff = exports.Watch = exports.Volume = exports.VolumeX = exports.Volume2 = exports.Volume1 = exports.Voicemail = exports.Video = exports.VideoOff = exports.Users = exports.User = exports.UserX = exports.UserPlus = exports.UserMinus = exports.UserCheck = exports.Upload = exports.UploadCloud = exports.Unlock = exports.Underline = exports.Umbrella = exports.Type = exports.Twitter = exports.Tv = exports.Triangle = exports.TrendingUp = exports.TrendingDown = exports.Trash = exports.Trash2 = exports.ToggleRight = exports.ToggleLeft = exports.ThumbsUp = exports.ThumbsDown = undefined;
-exports.Thermometer = exports.Target = exports.Tag = exports.Tablet = exports.Sunset = exports.Sunrise = exports.Sun = exports.StopCircle = exports.Star = exports.Square = exports.Speaker = exports.Smartphone = exports.Sliders = exports.Slash = exports.Slack = exports.SkipForward = exports.SkipBack = exports.Sidebar = exports.Shuffle = exports.ShoppingCart = exports.Shield = exports.Share = exports.Share2 = exports.Settings = exports.Server = exports.Search = exports.Scissors = exports.Save = exports.RotateCw = exports.RotateCcw = exports.Rewind = exports.Repeat = exports.RefreshCw = exports.RefreshCcw = exports.Radio = exports.Printer = exports.Power = exports.Pocket = exports.Plus = exports.PlusSquare = exports.PlusCircle = exports.Play = exports.PlayCircle = exports.PieChart = exports.Phone = exports.PhoneOutgoing = exports.PhoneOff = exports.PhoneMissed = exports.PhoneIncoming = exports.PhoneForwarded = exports.PhoneCall = exports.Percent = exports.Pause = exports.PauseCircle = exports.Paperclip = exports.Package = exports.Octagon = exports.Navigation = exports.Navigation2 = exports.Music = exports.Move = exports.MoreVertical = exports.MoreHorizontal = exports.Moon = exports.Monitor = exports.Minus = exports.MinusSquare = exports.MinusCircle = exports.Minimize = exports.Minimize2 = exports.Mic = exports.MicOff = exports.MessageSquare = exports.MessageCircle = exports.Menu = exports.Maximize = exports.Maximize2 = exports.Map = exports.MapPin = exports.Mail = exports.LogOut = exports.LogIn = exports.Lock = exports.Loader = exports.List = exports.Link = exports.Link2 = exports.LifeBuoy = exports.Layout = exports.Layers = exports.Italic = exports.Instagram = exports.Info = exports.Inbox = exports.Image = exports.Home = exports.HelpCircle = exports.Heart = exports.Headphones = exports.Hash = undefined;
-exports.Grid = exports.Globe = exports.Gitlab = exports.Github = exports.Folder = exports.Flag = exports.Filter = exports.Film = exports.File = exports.FileText = exports.FilePlus = exports.FileMinus = exports.Feather = exports.FastForward = exports.Facebook = exports.Eye = exports.EyeOff = exports.ExternalLink = exports.Edit = exports.Edit3 = exports.Edit2 = exports.Droplet = exports.Download = exports.DownloadCloud = exports.Disc = exports.Delete = exports.Crosshair = exports.Crop = exports.CreditCard = exports.Cpu = exports.CornerUpRight = exports.CornerUpLeft = exports.CornerRightUp = exports.CornerRightDown = exports.CornerLeftUp = exports.CornerLeftDown = exports.CornerDownRight = exports.CornerDownLeft = exports.Copy = exports.Compass = exports.Command = exports.Codepen = exports.Cloud = exports.CloudSnow = exports.CloudRain = exports.CloudOff = exports.CloudLightning = exports.CloudDrizzle = exports.Clock = exports.Clipboard = exports.Circle = exports.Chrome = exports.ChevronsUp = exports.ChevronsRight = exports.ChevronsLeft = exports.ChevronsDown = exports.ChevronUp = exports.ChevronRight = exports.ChevronLeft = exports.ChevronDown = exports.Check = exports.CheckSquare = exports.CheckCircle = exports.Cast = exports.Camera = exports.CameraOff = exports.Calendar = exports.Briefcase = exports.Box = exports.Bookmark = exports.Book = exports.Bold = exports.Bluetooth = exports.Bell = exports.BellOff = exports.Battery = exports.BatteryCharging = exports.BarChart = exports.BarChart2 = exports.Award = exports.AtSign = exports.ArrowUp = exports.ArrowUpRight = exports.ArrowUpLeft = exports.ArrowRight = exports.ArrowLeft = exports.ArrowDown = exports.ArrowDownRight = exports.ArrowDownLeft = exports.Aperture = exports.Anchor = exports.AlignRight = exports.AlignLeft = exports.AlignJustify = exports.AlignCenter = exports.AlertTriangle = exports.AlertOctagon = exports.AlertCircle = exports.Airplay = exports.Activity = undefined;
+exports.ZoomOut = exports.ZoomIn = exports.Zap = exports.ZapOff = exports.X = exports.XSquare = exports.XCircle = exports.Wind = exports.Wifi = exports.WifiOff = exports.Watch = exports.Volume = exports.VolumeX = exports.Volume2 = exports.Volume1 = exports.Voicemail = exports.Video = exports.VideoOff = exports.Users = exports.User = exports.UserX = exports.UserPlus = exports.UserMinus = exports.UserCheck = exports.Upload = exports.UploadCloud = exports.Unlock = exports.Underline = exports.Umbrella = exports.Type = exports.Twitter = exports.Tv = exports.Truck = exports.Triangle = exports.TrendingUp = exports.TrendingDown = exports.Trash = exports.Trash2 = exports.ToggleRight = exports.ToggleLeft = exports.ThumbsUp = exports.ThumbsDown = exports.Thermometer = exports.Terminal = exports.Target = exports.Tag = exports.Tablet = exports.Sunset = exports.Sunrise = exports.Sun = exports.StopCircle = exports.Star = exports.Square = exports.Speaker = exports.Smartphone = exports.Sliders = exports.Slash = exports.Slack = exports.SkipForward = exports.SkipBack = exports.Sidebar = exports.Shuffle = exports.ShoppingCart = undefined;
+exports.ShoppingBag = exports.Shield = exports.ShieldOff = exports.Share = exports.Share2 = exports.Settings = exports.Server = exports.Send = exports.Search = exports.Scissors = exports.Save = exports.Rss = exports.RotateCw = exports.RotateCcw = exports.Rewind = exports.Repeat = exports.RefreshCw = exports.RefreshCcw = exports.Radio = exports.Printer = exports.Power = exports.Pocket = exports.Plus = exports.PlusSquare = exports.PlusCircle = exports.Play = exports.PlayCircle = exports.PieChart = exports.Phone = exports.PhoneOutgoing = exports.PhoneOff = exports.PhoneMissed = exports.PhoneIncoming = exports.PhoneForwarded = exports.PhoneCall = exports.Percent = exports.Pause = exports.PauseCircle = exports.Paperclip = exports.Package = exports.Octagon = exports.Navigation = exports.Navigation2 = exports.Music = exports.Move = exports.MoreVertical = exports.MoreHorizontal = exports.Moon = exports.Monitor = exports.Minus = exports.MinusSquare = exports.MinusCircle = exports.Minimize = exports.Minimize2 = exports.Mic = exports.MicOff = exports.MessageSquare = exports.MessageCircle = exports.Menu = exports.Maximize = exports.Maximize2 = exports.Map = exports.MapPin = exports.Mail = exports.LogOut = exports.LogIn = exports.Lock = exports.Loader = exports.List = exports.Linkedin = exports.Link = exports.Link2 = exports.LifeBuoy = exports.Layout = exports.Layers = exports.Italic = exports.Instagram = exports.Info = exports.Inbox = exports.Image = exports.Home = exports.HelpCircle = exports.Heart = exports.Headphones = exports.Hash = exports.HardDrive = exports.Grid = exports.Globe = exports.Gitlab = exports.Github = exports.GitPullRequest = exports.GitMerge = exports.GitCommit = exports.GitBranch = exports.Folder = exports.FolderPlus = exports.FolderMinus = exports.Flag = exports.Filter = exports.Film = undefined;
+exports.File = exports.FileText = exports.FilePlus = exports.FileMinus = exports.Feather = exports.FastForward = exports.Facebook = exports.Eye = exports.EyeOff = exports.ExternalLink = exports.Edit = exports.Edit3 = exports.Edit2 = exports.Droplet = exports.Download = exports.DownloadCloud = exports.DollarSign = exports.Disc = exports.Delete = exports.Database = exports.Crosshair = exports.Crop = exports.CreditCard = exports.Cpu = exports.CornerUpRight = exports.CornerUpLeft = exports.CornerRightUp = exports.CornerRightDown = exports.CornerLeftUp = exports.CornerLeftDown = exports.CornerDownRight = exports.CornerDownLeft = exports.Copy = exports.Compass = exports.Command = exports.Codepen = exports.Code = exports.Cloud = exports.CloudSnow = exports.CloudRain = exports.CloudOff = exports.CloudLightning = exports.CloudDrizzle = exports.Clock = exports.Clipboard = exports.Circle = exports.Chrome = exports.ChevronsUp = exports.ChevronsRight = exports.ChevronsLeft = exports.ChevronsDown = exports.ChevronUp = exports.ChevronRight = exports.ChevronLeft = exports.ChevronDown = exports.Check = exports.CheckSquare = exports.CheckCircle = exports.Cast = exports.Camera = exports.CameraOff = exports.Calendar = exports.Briefcase = exports.Box = exports.Bookmark = exports.Book = exports.BookOpen = exports.Bold = exports.Bluetooth = exports.Bell = exports.BellOff = exports.Battery = exports.BatteryCharging = exports.BarChart = exports.BarChart2 = exports.Award = exports.AtSign = exports.ArrowUp = exports.ArrowUpRight = exports.ArrowUpLeft = exports.ArrowUpCircle = exports.ArrowRight = exports.ArrowRightCircle = exports.ArrowLeft = exports.ArrowLeftCircle = exports.ArrowDown = exports.ArrowDownRight = exports.ArrowDownLeft = exports.ArrowDownCircle = exports.Aperture = exports.Anchor = exports.AlignRight = exports.AlignLeft = exports.AlignJustify = exports.AlignCenter = exports.AlertTriangle = exports.AlertOctagon = exports.AlertCircle = exports.Airplay = exports.Activity = undefined;
 
 var _activity = __webpack_require__(33);
 
@@ -866,919 +866,1011 @@ var _aperture = __webpack_require__(45);
 
 var _aperture2 = _interopRequireDefault(_aperture);
 
-var _arrowDownLeft = __webpack_require__(46);
+var _arrowDownCircle = __webpack_require__(46);
+
+var _arrowDownCircle2 = _interopRequireDefault(_arrowDownCircle);
+
+var _arrowDownLeft = __webpack_require__(47);
 
 var _arrowDownLeft2 = _interopRequireDefault(_arrowDownLeft);
 
-var _arrowDownRight = __webpack_require__(47);
+var _arrowDownRight = __webpack_require__(48);
 
 var _arrowDownRight2 = _interopRequireDefault(_arrowDownRight);
 
-var _arrowDown = __webpack_require__(48);
+var _arrowDown = __webpack_require__(49);
 
 var _arrowDown2 = _interopRequireDefault(_arrowDown);
 
-var _arrowLeft = __webpack_require__(49);
+var _arrowLeftCircle = __webpack_require__(50);
+
+var _arrowLeftCircle2 = _interopRequireDefault(_arrowLeftCircle);
+
+var _arrowLeft = __webpack_require__(51);
 
 var _arrowLeft2 = _interopRequireDefault(_arrowLeft);
 
-var _arrowRight = __webpack_require__(50);
+var _arrowRightCircle = __webpack_require__(52);
+
+var _arrowRightCircle2 = _interopRequireDefault(_arrowRightCircle);
+
+var _arrowRight = __webpack_require__(53);
 
 var _arrowRight2 = _interopRequireDefault(_arrowRight);
 
-var _arrowUpLeft = __webpack_require__(51);
+var _arrowUpCircle = __webpack_require__(54);
+
+var _arrowUpCircle2 = _interopRequireDefault(_arrowUpCircle);
+
+var _arrowUpLeft = __webpack_require__(55);
 
 var _arrowUpLeft2 = _interopRequireDefault(_arrowUpLeft);
 
-var _arrowUpRight = __webpack_require__(52);
+var _arrowUpRight = __webpack_require__(56);
 
 var _arrowUpRight2 = _interopRequireDefault(_arrowUpRight);
 
-var _arrowUp = __webpack_require__(53);
+var _arrowUp = __webpack_require__(57);
 
 var _arrowUp2 = _interopRequireDefault(_arrowUp);
 
-var _atSign = __webpack_require__(54);
+var _atSign = __webpack_require__(58);
 
 var _atSign2 = _interopRequireDefault(_atSign);
 
-var _award = __webpack_require__(55);
+var _award = __webpack_require__(59);
 
 var _award2 = _interopRequireDefault(_award);
 
-var _barChart = __webpack_require__(56);
+var _barChart = __webpack_require__(60);
 
 var _barChart2 = _interopRequireDefault(_barChart);
 
-var _barChart3 = __webpack_require__(57);
+var _barChart3 = __webpack_require__(61);
 
 var _barChart4 = _interopRequireDefault(_barChart3);
 
-var _batteryCharging = __webpack_require__(58);
+var _batteryCharging = __webpack_require__(62);
 
 var _batteryCharging2 = _interopRequireDefault(_batteryCharging);
 
-var _battery = __webpack_require__(59);
+var _battery = __webpack_require__(63);
 
 var _battery2 = _interopRequireDefault(_battery);
 
-var _bellOff = __webpack_require__(60);
+var _bellOff = __webpack_require__(64);
 
 var _bellOff2 = _interopRequireDefault(_bellOff);
 
-var _bell = __webpack_require__(61);
+var _bell = __webpack_require__(65);
 
 var _bell2 = _interopRequireDefault(_bell);
 
-var _bluetooth = __webpack_require__(62);
+var _bluetooth = __webpack_require__(66);
 
 var _bluetooth2 = _interopRequireDefault(_bluetooth);
 
-var _bold = __webpack_require__(63);
+var _bold = __webpack_require__(67);
 
 var _bold2 = _interopRequireDefault(_bold);
 
-var _book = __webpack_require__(64);
+var _bookOpen = __webpack_require__(68);
+
+var _bookOpen2 = _interopRequireDefault(_bookOpen);
+
+var _book = __webpack_require__(69);
 
 var _book2 = _interopRequireDefault(_book);
 
-var _bookmark = __webpack_require__(65);
+var _bookmark = __webpack_require__(70);
 
 var _bookmark2 = _interopRequireDefault(_bookmark);
 
-var _box = __webpack_require__(66);
+var _box = __webpack_require__(71);
 
 var _box2 = _interopRequireDefault(_box);
 
-var _briefcase = __webpack_require__(67);
+var _briefcase = __webpack_require__(72);
 
 var _briefcase2 = _interopRequireDefault(_briefcase);
 
-var _calendar = __webpack_require__(68);
+var _calendar = __webpack_require__(73);
 
 var _calendar2 = _interopRequireDefault(_calendar);
 
-var _cameraOff = __webpack_require__(69);
+var _cameraOff = __webpack_require__(74);
 
 var _cameraOff2 = _interopRequireDefault(_cameraOff);
 
-var _camera = __webpack_require__(70);
+var _camera = __webpack_require__(75);
 
 var _camera2 = _interopRequireDefault(_camera);
 
-var _cast = __webpack_require__(71);
+var _cast = __webpack_require__(76);
 
 var _cast2 = _interopRequireDefault(_cast);
 
-var _checkCircle = __webpack_require__(72);
+var _checkCircle = __webpack_require__(77);
 
 var _checkCircle2 = _interopRequireDefault(_checkCircle);
 
-var _checkSquare = __webpack_require__(73);
+var _checkSquare = __webpack_require__(78);
 
 var _checkSquare2 = _interopRequireDefault(_checkSquare);
 
-var _check = __webpack_require__(74);
+var _check = __webpack_require__(79);
 
 var _check2 = _interopRequireDefault(_check);
 
-var _chevronDown = __webpack_require__(75);
+var _chevronDown = __webpack_require__(80);
 
 var _chevronDown2 = _interopRequireDefault(_chevronDown);
 
-var _chevronLeft = __webpack_require__(76);
+var _chevronLeft = __webpack_require__(81);
 
 var _chevronLeft2 = _interopRequireDefault(_chevronLeft);
 
-var _chevronRight = __webpack_require__(77);
+var _chevronRight = __webpack_require__(82);
 
 var _chevronRight2 = _interopRequireDefault(_chevronRight);
 
-var _chevronUp = __webpack_require__(78);
+var _chevronUp = __webpack_require__(83);
 
 var _chevronUp2 = _interopRequireDefault(_chevronUp);
 
-var _chevronsDown = __webpack_require__(79);
+var _chevronsDown = __webpack_require__(84);
 
 var _chevronsDown2 = _interopRequireDefault(_chevronsDown);
 
-var _chevronsLeft = __webpack_require__(80);
+var _chevronsLeft = __webpack_require__(85);
 
 var _chevronsLeft2 = _interopRequireDefault(_chevronsLeft);
 
-var _chevronsRight = __webpack_require__(81);
+var _chevronsRight = __webpack_require__(86);
 
 var _chevronsRight2 = _interopRequireDefault(_chevronsRight);
 
-var _chevronsUp = __webpack_require__(82);
+var _chevronsUp = __webpack_require__(87);
 
 var _chevronsUp2 = _interopRequireDefault(_chevronsUp);
 
-var _chrome = __webpack_require__(83);
+var _chrome = __webpack_require__(88);
 
 var _chrome2 = _interopRequireDefault(_chrome);
 
-var _circle = __webpack_require__(84);
+var _circle = __webpack_require__(89);
 
 var _circle2 = _interopRequireDefault(_circle);
 
-var _clipboard = __webpack_require__(85);
+var _clipboard = __webpack_require__(90);
 
 var _clipboard2 = _interopRequireDefault(_clipboard);
 
-var _clock = __webpack_require__(86);
+var _clock = __webpack_require__(91);
 
 var _clock2 = _interopRequireDefault(_clock);
 
-var _cloudDrizzle = __webpack_require__(87);
+var _cloudDrizzle = __webpack_require__(92);
 
 var _cloudDrizzle2 = _interopRequireDefault(_cloudDrizzle);
 
-var _cloudLightning = __webpack_require__(88);
+var _cloudLightning = __webpack_require__(93);
 
 var _cloudLightning2 = _interopRequireDefault(_cloudLightning);
 
-var _cloudOff = __webpack_require__(89);
+var _cloudOff = __webpack_require__(94);
 
 var _cloudOff2 = _interopRequireDefault(_cloudOff);
 
-var _cloudRain = __webpack_require__(90);
+var _cloudRain = __webpack_require__(95);
 
 var _cloudRain2 = _interopRequireDefault(_cloudRain);
 
-var _cloudSnow = __webpack_require__(91);
+var _cloudSnow = __webpack_require__(96);
 
 var _cloudSnow2 = _interopRequireDefault(_cloudSnow);
 
-var _cloud = __webpack_require__(92);
+var _cloud = __webpack_require__(97);
 
 var _cloud2 = _interopRequireDefault(_cloud);
 
-var _codepen = __webpack_require__(93);
+var _code = __webpack_require__(98);
+
+var _code2 = _interopRequireDefault(_code);
+
+var _codepen = __webpack_require__(99);
 
 var _codepen2 = _interopRequireDefault(_codepen);
 
-var _command = __webpack_require__(94);
+var _command = __webpack_require__(100);
 
 var _command2 = _interopRequireDefault(_command);
 
-var _compass = __webpack_require__(95);
+var _compass = __webpack_require__(101);
 
 var _compass2 = _interopRequireDefault(_compass);
 
-var _copy = __webpack_require__(96);
+var _copy = __webpack_require__(102);
 
 var _copy2 = _interopRequireDefault(_copy);
 
-var _cornerDownLeft = __webpack_require__(97);
+var _cornerDownLeft = __webpack_require__(103);
 
 var _cornerDownLeft2 = _interopRequireDefault(_cornerDownLeft);
 
-var _cornerDownRight = __webpack_require__(98);
+var _cornerDownRight = __webpack_require__(104);
 
 var _cornerDownRight2 = _interopRequireDefault(_cornerDownRight);
 
-var _cornerLeftDown = __webpack_require__(99);
+var _cornerLeftDown = __webpack_require__(105);
 
 var _cornerLeftDown2 = _interopRequireDefault(_cornerLeftDown);
 
-var _cornerLeftUp = __webpack_require__(100);
+var _cornerLeftUp = __webpack_require__(106);
 
 var _cornerLeftUp2 = _interopRequireDefault(_cornerLeftUp);
 
-var _cornerRightDown = __webpack_require__(101);
+var _cornerRightDown = __webpack_require__(107);
 
 var _cornerRightDown2 = _interopRequireDefault(_cornerRightDown);
 
-var _cornerRightUp = __webpack_require__(102);
+var _cornerRightUp = __webpack_require__(108);
 
 var _cornerRightUp2 = _interopRequireDefault(_cornerRightUp);
 
-var _cornerUpLeft = __webpack_require__(103);
+var _cornerUpLeft = __webpack_require__(109);
 
 var _cornerUpLeft2 = _interopRequireDefault(_cornerUpLeft);
 
-var _cornerUpRight = __webpack_require__(104);
+var _cornerUpRight = __webpack_require__(110);
 
 var _cornerUpRight2 = _interopRequireDefault(_cornerUpRight);
 
-var _cpu = __webpack_require__(105);
+var _cpu = __webpack_require__(111);
 
 var _cpu2 = _interopRequireDefault(_cpu);
 
-var _creditCard = __webpack_require__(106);
+var _creditCard = __webpack_require__(112);
 
 var _creditCard2 = _interopRequireDefault(_creditCard);
 
-var _crop = __webpack_require__(107);
+var _crop = __webpack_require__(113);
 
 var _crop2 = _interopRequireDefault(_crop);
 
-var _crosshair = __webpack_require__(108);
+var _crosshair = __webpack_require__(114);
 
 var _crosshair2 = _interopRequireDefault(_crosshair);
 
-var _delete = __webpack_require__(109);
+var _database = __webpack_require__(115);
+
+var _database2 = _interopRequireDefault(_database);
+
+var _delete = __webpack_require__(116);
 
 var _delete2 = _interopRequireDefault(_delete);
 
-var _disc = __webpack_require__(110);
+var _disc = __webpack_require__(117);
 
 var _disc2 = _interopRequireDefault(_disc);
 
-var _downloadCloud = __webpack_require__(111);
+var _dollarSign = __webpack_require__(118);
+
+var _dollarSign2 = _interopRequireDefault(_dollarSign);
+
+var _downloadCloud = __webpack_require__(119);
 
 var _downloadCloud2 = _interopRequireDefault(_downloadCloud);
 
-var _download = __webpack_require__(112);
+var _download = __webpack_require__(120);
 
 var _download2 = _interopRequireDefault(_download);
 
-var _droplet = __webpack_require__(113);
+var _droplet = __webpack_require__(121);
 
 var _droplet2 = _interopRequireDefault(_droplet);
 
-var _edit = __webpack_require__(114);
+var _edit = __webpack_require__(122);
 
 var _edit2 = _interopRequireDefault(_edit);
 
-var _edit3 = __webpack_require__(115);
+var _edit3 = __webpack_require__(123);
 
 var _edit4 = _interopRequireDefault(_edit3);
 
-var _edit5 = __webpack_require__(116);
+var _edit5 = __webpack_require__(124);
 
 var _edit6 = _interopRequireDefault(_edit5);
 
-var _externalLink = __webpack_require__(117);
+var _externalLink = __webpack_require__(125);
 
 var _externalLink2 = _interopRequireDefault(_externalLink);
 
-var _eyeOff = __webpack_require__(118);
+var _eyeOff = __webpack_require__(126);
 
 var _eyeOff2 = _interopRequireDefault(_eyeOff);
 
-var _eye = __webpack_require__(119);
+var _eye = __webpack_require__(127);
 
 var _eye2 = _interopRequireDefault(_eye);
 
-var _facebook = __webpack_require__(120);
+var _facebook = __webpack_require__(128);
 
 var _facebook2 = _interopRequireDefault(_facebook);
 
-var _fastForward = __webpack_require__(121);
+var _fastForward = __webpack_require__(129);
 
 var _fastForward2 = _interopRequireDefault(_fastForward);
 
-var _feather = __webpack_require__(122);
+var _feather = __webpack_require__(130);
 
 var _feather2 = _interopRequireDefault(_feather);
 
-var _fileMinus = __webpack_require__(123);
+var _fileMinus = __webpack_require__(131);
 
 var _fileMinus2 = _interopRequireDefault(_fileMinus);
 
-var _filePlus = __webpack_require__(124);
+var _filePlus = __webpack_require__(132);
 
 var _filePlus2 = _interopRequireDefault(_filePlus);
 
-var _fileText = __webpack_require__(125);
+var _fileText = __webpack_require__(133);
 
 var _fileText2 = _interopRequireDefault(_fileText);
 
-var _file = __webpack_require__(126);
+var _file = __webpack_require__(134);
 
 var _file2 = _interopRequireDefault(_file);
 
-var _film = __webpack_require__(127);
+var _film = __webpack_require__(135);
 
 var _film2 = _interopRequireDefault(_film);
 
-var _filter = __webpack_require__(128);
+var _filter = __webpack_require__(136);
 
 var _filter2 = _interopRequireDefault(_filter);
 
-var _flag = __webpack_require__(129);
+var _flag = __webpack_require__(137);
 
 var _flag2 = _interopRequireDefault(_flag);
 
-var _folder = __webpack_require__(130);
+var _folderMinus = __webpack_require__(138);
+
+var _folderMinus2 = _interopRequireDefault(_folderMinus);
+
+var _folderPlus = __webpack_require__(139);
+
+var _folderPlus2 = _interopRequireDefault(_folderPlus);
+
+var _folder = __webpack_require__(140);
 
 var _folder2 = _interopRequireDefault(_folder);
 
-var _github = __webpack_require__(131);
+var _gitBranch = __webpack_require__(141);
+
+var _gitBranch2 = _interopRequireDefault(_gitBranch);
+
+var _gitCommit = __webpack_require__(142);
+
+var _gitCommit2 = _interopRequireDefault(_gitCommit);
+
+var _gitMerge = __webpack_require__(143);
+
+var _gitMerge2 = _interopRequireDefault(_gitMerge);
+
+var _gitPullRequest = __webpack_require__(144);
+
+var _gitPullRequest2 = _interopRequireDefault(_gitPullRequest);
+
+var _github = __webpack_require__(145);
 
 var _github2 = _interopRequireDefault(_github);
 
-var _gitlab = __webpack_require__(132);
+var _gitlab = __webpack_require__(146);
 
 var _gitlab2 = _interopRequireDefault(_gitlab);
 
-var _globe = __webpack_require__(133);
+var _globe = __webpack_require__(147);
 
 var _globe2 = _interopRequireDefault(_globe);
 
-var _grid = __webpack_require__(134);
+var _grid = __webpack_require__(148);
 
 var _grid2 = _interopRequireDefault(_grid);
 
-var _hash = __webpack_require__(135);
+var _hardDrive = __webpack_require__(149);
+
+var _hardDrive2 = _interopRequireDefault(_hardDrive);
+
+var _hash = __webpack_require__(150);
 
 var _hash2 = _interopRequireDefault(_hash);
 
-var _headphones = __webpack_require__(136);
+var _headphones = __webpack_require__(151);
 
 var _headphones2 = _interopRequireDefault(_headphones);
 
-var _heart = __webpack_require__(137);
+var _heart = __webpack_require__(152);
 
 var _heart2 = _interopRequireDefault(_heart);
 
-var _helpCircle = __webpack_require__(138);
+var _helpCircle = __webpack_require__(153);
 
 var _helpCircle2 = _interopRequireDefault(_helpCircle);
 
-var _home = __webpack_require__(139);
+var _home = __webpack_require__(154);
 
 var _home2 = _interopRequireDefault(_home);
 
-var _image = __webpack_require__(140);
+var _image = __webpack_require__(155);
 
 var _image2 = _interopRequireDefault(_image);
 
-var _inbox = __webpack_require__(141);
+var _inbox = __webpack_require__(156);
 
 var _inbox2 = _interopRequireDefault(_inbox);
 
-var _info = __webpack_require__(142);
+var _info = __webpack_require__(157);
 
 var _info2 = _interopRequireDefault(_info);
 
-var _instagram = __webpack_require__(143);
+var _instagram = __webpack_require__(158);
 
 var _instagram2 = _interopRequireDefault(_instagram);
 
-var _italic = __webpack_require__(144);
+var _italic = __webpack_require__(159);
 
 var _italic2 = _interopRequireDefault(_italic);
 
-var _layers = __webpack_require__(145);
+var _layers = __webpack_require__(160);
 
 var _layers2 = _interopRequireDefault(_layers);
 
-var _layout = __webpack_require__(146);
+var _layout = __webpack_require__(161);
 
 var _layout2 = _interopRequireDefault(_layout);
 
-var _lifeBuoy = __webpack_require__(147);
+var _lifeBuoy = __webpack_require__(162);
 
 var _lifeBuoy2 = _interopRequireDefault(_lifeBuoy);
 
-var _link = __webpack_require__(148);
+var _link = __webpack_require__(163);
 
 var _link2 = _interopRequireDefault(_link);
 
-var _link3 = __webpack_require__(149);
+var _link3 = __webpack_require__(164);
 
 var _link4 = _interopRequireDefault(_link3);
 
-var _list = __webpack_require__(150);
+var _linkedin = __webpack_require__(165);
+
+var _linkedin2 = _interopRequireDefault(_linkedin);
+
+var _list = __webpack_require__(166);
 
 var _list2 = _interopRequireDefault(_list);
 
-var _loader = __webpack_require__(151);
+var _loader = __webpack_require__(167);
 
 var _loader2 = _interopRequireDefault(_loader);
 
-var _lock = __webpack_require__(152);
+var _lock = __webpack_require__(168);
 
 var _lock2 = _interopRequireDefault(_lock);
 
-var _logIn = __webpack_require__(153);
+var _logIn = __webpack_require__(169);
 
 var _logIn2 = _interopRequireDefault(_logIn);
 
-var _logOut = __webpack_require__(154);
+var _logOut = __webpack_require__(170);
 
 var _logOut2 = _interopRequireDefault(_logOut);
 
-var _mail = __webpack_require__(155);
+var _mail = __webpack_require__(171);
 
 var _mail2 = _interopRequireDefault(_mail);
 
-var _mapPin = __webpack_require__(156);
+var _mapPin = __webpack_require__(172);
 
 var _mapPin2 = _interopRequireDefault(_mapPin);
 
-var _map = __webpack_require__(157);
+var _map = __webpack_require__(173);
 
 var _map2 = _interopRequireDefault(_map);
 
-var _maximize = __webpack_require__(158);
+var _maximize = __webpack_require__(174);
 
 var _maximize2 = _interopRequireDefault(_maximize);
 
-var _maximize3 = __webpack_require__(159);
+var _maximize3 = __webpack_require__(175);
 
 var _maximize4 = _interopRequireDefault(_maximize3);
 
-var _menu = __webpack_require__(160);
+var _menu = __webpack_require__(176);
 
 var _menu2 = _interopRequireDefault(_menu);
 
-var _messageCircle = __webpack_require__(161);
+var _messageCircle = __webpack_require__(177);
 
 var _messageCircle2 = _interopRequireDefault(_messageCircle);
 
-var _messageSquare = __webpack_require__(162);
+var _messageSquare = __webpack_require__(178);
 
 var _messageSquare2 = _interopRequireDefault(_messageSquare);
 
-var _micOff = __webpack_require__(163);
+var _micOff = __webpack_require__(179);
 
 var _micOff2 = _interopRequireDefault(_micOff);
 
-var _mic = __webpack_require__(164);
+var _mic = __webpack_require__(180);
 
 var _mic2 = _interopRequireDefault(_mic);
 
-var _minimize = __webpack_require__(165);
+var _minimize = __webpack_require__(181);
 
 var _minimize2 = _interopRequireDefault(_minimize);
 
-var _minimize3 = __webpack_require__(166);
+var _minimize3 = __webpack_require__(182);
 
 var _minimize4 = _interopRequireDefault(_minimize3);
 
-var _minusCircle = __webpack_require__(167);
+var _minusCircle = __webpack_require__(183);
 
 var _minusCircle2 = _interopRequireDefault(_minusCircle);
 
-var _minusSquare = __webpack_require__(168);
+var _minusSquare = __webpack_require__(184);
 
 var _minusSquare2 = _interopRequireDefault(_minusSquare);
 
-var _minus = __webpack_require__(169);
+var _minus = __webpack_require__(185);
 
 var _minus2 = _interopRequireDefault(_minus);
 
-var _monitor = __webpack_require__(170);
+var _monitor = __webpack_require__(186);
 
 var _monitor2 = _interopRequireDefault(_monitor);
 
-var _moon = __webpack_require__(171);
+var _moon = __webpack_require__(187);
 
 var _moon2 = _interopRequireDefault(_moon);
 
-var _moreHorizontal = __webpack_require__(172);
+var _moreHorizontal = __webpack_require__(188);
 
 var _moreHorizontal2 = _interopRequireDefault(_moreHorizontal);
 
-var _moreVertical = __webpack_require__(173);
+var _moreVertical = __webpack_require__(189);
 
 var _moreVertical2 = _interopRequireDefault(_moreVertical);
 
-var _move = __webpack_require__(174);
+var _move = __webpack_require__(190);
 
 var _move2 = _interopRequireDefault(_move);
 
-var _music = __webpack_require__(175);
+var _music = __webpack_require__(191);
 
 var _music2 = _interopRequireDefault(_music);
 
-var _navigation = __webpack_require__(176);
+var _navigation = __webpack_require__(192);
 
 var _navigation2 = _interopRequireDefault(_navigation);
 
-var _navigation3 = __webpack_require__(177);
+var _navigation3 = __webpack_require__(193);
 
 var _navigation4 = _interopRequireDefault(_navigation3);
 
-var _octagon = __webpack_require__(178);
+var _octagon = __webpack_require__(194);
 
 var _octagon2 = _interopRequireDefault(_octagon);
 
-var _package = __webpack_require__(179);
+var _package = __webpack_require__(195);
 
 var _package2 = _interopRequireDefault(_package);
 
-var _paperclip = __webpack_require__(180);
+var _paperclip = __webpack_require__(196);
 
 var _paperclip2 = _interopRequireDefault(_paperclip);
 
-var _pauseCircle = __webpack_require__(181);
+var _pauseCircle = __webpack_require__(197);
 
 var _pauseCircle2 = _interopRequireDefault(_pauseCircle);
 
-var _pause = __webpack_require__(182);
+var _pause = __webpack_require__(198);
 
 var _pause2 = _interopRequireDefault(_pause);
 
-var _percent = __webpack_require__(183);
+var _percent = __webpack_require__(199);
 
 var _percent2 = _interopRequireDefault(_percent);
 
-var _phoneCall = __webpack_require__(184);
+var _phoneCall = __webpack_require__(200);
 
 var _phoneCall2 = _interopRequireDefault(_phoneCall);
 
-var _phoneForwarded = __webpack_require__(185);
+var _phoneForwarded = __webpack_require__(201);
 
 var _phoneForwarded2 = _interopRequireDefault(_phoneForwarded);
 
-var _phoneIncoming = __webpack_require__(186);
+var _phoneIncoming = __webpack_require__(202);
 
 var _phoneIncoming2 = _interopRequireDefault(_phoneIncoming);
 
-var _phoneMissed = __webpack_require__(187);
+var _phoneMissed = __webpack_require__(203);
 
 var _phoneMissed2 = _interopRequireDefault(_phoneMissed);
 
-var _phoneOff = __webpack_require__(188);
+var _phoneOff = __webpack_require__(204);
 
 var _phoneOff2 = _interopRequireDefault(_phoneOff);
 
-var _phoneOutgoing = __webpack_require__(189);
+var _phoneOutgoing = __webpack_require__(205);
 
 var _phoneOutgoing2 = _interopRequireDefault(_phoneOutgoing);
 
-var _phone = __webpack_require__(190);
+var _phone = __webpack_require__(206);
 
 var _phone2 = _interopRequireDefault(_phone);
 
-var _pieChart = __webpack_require__(191);
+var _pieChart = __webpack_require__(207);
 
 var _pieChart2 = _interopRequireDefault(_pieChart);
 
-var _playCircle = __webpack_require__(192);
+var _playCircle = __webpack_require__(208);
 
 var _playCircle2 = _interopRequireDefault(_playCircle);
 
-var _play = __webpack_require__(193);
+var _play = __webpack_require__(209);
 
 var _play2 = _interopRequireDefault(_play);
 
-var _plusCircle = __webpack_require__(194);
+var _plusCircle = __webpack_require__(210);
 
 var _plusCircle2 = _interopRequireDefault(_plusCircle);
 
-var _plusSquare = __webpack_require__(195);
+var _plusSquare = __webpack_require__(211);
 
 var _plusSquare2 = _interopRequireDefault(_plusSquare);
 
-var _plus = __webpack_require__(196);
+var _plus = __webpack_require__(212);
 
 var _plus2 = _interopRequireDefault(_plus);
 
-var _pocket = __webpack_require__(197);
+var _pocket = __webpack_require__(213);
 
 var _pocket2 = _interopRequireDefault(_pocket);
 
-var _power = __webpack_require__(198);
+var _power = __webpack_require__(214);
 
 var _power2 = _interopRequireDefault(_power);
 
-var _printer = __webpack_require__(199);
+var _printer = __webpack_require__(215);
 
 var _printer2 = _interopRequireDefault(_printer);
 
-var _radio = __webpack_require__(200);
+var _radio = __webpack_require__(216);
 
 var _radio2 = _interopRequireDefault(_radio);
 
-var _refreshCcw = __webpack_require__(201);
+var _refreshCcw = __webpack_require__(217);
 
 var _refreshCcw2 = _interopRequireDefault(_refreshCcw);
 
-var _refreshCw = __webpack_require__(202);
+var _refreshCw = __webpack_require__(218);
 
 var _refreshCw2 = _interopRequireDefault(_refreshCw);
 
-var _repeat = __webpack_require__(203);
+var _repeat = __webpack_require__(219);
 
 var _repeat2 = _interopRequireDefault(_repeat);
 
-var _rewind = __webpack_require__(204);
+var _rewind = __webpack_require__(220);
 
 var _rewind2 = _interopRequireDefault(_rewind);
 
-var _rotateCcw = __webpack_require__(205);
+var _rotateCcw = __webpack_require__(221);
 
 var _rotateCcw2 = _interopRequireDefault(_rotateCcw);
 
-var _rotateCw = __webpack_require__(206);
+var _rotateCw = __webpack_require__(222);
 
 var _rotateCw2 = _interopRequireDefault(_rotateCw);
 
-var _save = __webpack_require__(207);
+var _rss = __webpack_require__(223);
+
+var _rss2 = _interopRequireDefault(_rss);
+
+var _save = __webpack_require__(224);
 
 var _save2 = _interopRequireDefault(_save);
 
-var _scissors = __webpack_require__(208);
+var _scissors = __webpack_require__(225);
 
 var _scissors2 = _interopRequireDefault(_scissors);
 
-var _search = __webpack_require__(209);
+var _search = __webpack_require__(226);
 
 var _search2 = _interopRequireDefault(_search);
 
-var _server = __webpack_require__(210);
+var _send = __webpack_require__(227);
+
+var _send2 = _interopRequireDefault(_send);
+
+var _server = __webpack_require__(228);
 
 var _server2 = _interopRequireDefault(_server);
 
-var _settings = __webpack_require__(211);
+var _settings = __webpack_require__(229);
 
 var _settings2 = _interopRequireDefault(_settings);
 
-var _share = __webpack_require__(212);
+var _share = __webpack_require__(230);
 
 var _share2 = _interopRequireDefault(_share);
 
-var _share3 = __webpack_require__(213);
+var _share3 = __webpack_require__(231);
 
 var _share4 = _interopRequireDefault(_share3);
 
-var _shield = __webpack_require__(214);
+var _shieldOff = __webpack_require__(232);
+
+var _shieldOff2 = _interopRequireDefault(_shieldOff);
+
+var _shield = __webpack_require__(233);
 
 var _shield2 = _interopRequireDefault(_shield);
 
-var _shoppingCart = __webpack_require__(215);
+var _shoppingBag = __webpack_require__(234);
+
+var _shoppingBag2 = _interopRequireDefault(_shoppingBag);
+
+var _shoppingCart = __webpack_require__(235);
 
 var _shoppingCart2 = _interopRequireDefault(_shoppingCart);
 
-var _shuffle = __webpack_require__(216);
+var _shuffle = __webpack_require__(236);
 
 var _shuffle2 = _interopRequireDefault(_shuffle);
 
-var _sidebar = __webpack_require__(217);
+var _sidebar = __webpack_require__(237);
 
 var _sidebar2 = _interopRequireDefault(_sidebar);
 
-var _skipBack = __webpack_require__(218);
+var _skipBack = __webpack_require__(238);
 
 var _skipBack2 = _interopRequireDefault(_skipBack);
 
-var _skipForward = __webpack_require__(219);
+var _skipForward = __webpack_require__(239);
 
 var _skipForward2 = _interopRequireDefault(_skipForward);
 
-var _slack = __webpack_require__(220);
+var _slack = __webpack_require__(240);
 
 var _slack2 = _interopRequireDefault(_slack);
 
-var _slash = __webpack_require__(221);
+var _slash = __webpack_require__(241);
 
 var _slash2 = _interopRequireDefault(_slash);
 
-var _sliders = __webpack_require__(222);
+var _sliders = __webpack_require__(242);
 
 var _sliders2 = _interopRequireDefault(_sliders);
 
-var _smartphone = __webpack_require__(223);
+var _smartphone = __webpack_require__(243);
 
 var _smartphone2 = _interopRequireDefault(_smartphone);
 
-var _speaker = __webpack_require__(224);
+var _speaker = __webpack_require__(244);
 
 var _speaker2 = _interopRequireDefault(_speaker);
 
-var _square = __webpack_require__(225);
+var _square = __webpack_require__(245);
 
 var _square2 = _interopRequireDefault(_square);
 
-var _star = __webpack_require__(226);
+var _star = __webpack_require__(246);
 
 var _star2 = _interopRequireDefault(_star);
 
-var _stopCircle = __webpack_require__(227);
+var _stopCircle = __webpack_require__(247);
 
 var _stopCircle2 = _interopRequireDefault(_stopCircle);
 
-var _sun = __webpack_require__(228);
+var _sun = __webpack_require__(248);
 
 var _sun2 = _interopRequireDefault(_sun);
 
-var _sunrise = __webpack_require__(229);
+var _sunrise = __webpack_require__(249);
 
 var _sunrise2 = _interopRequireDefault(_sunrise);
 
-var _sunset = __webpack_require__(230);
+var _sunset = __webpack_require__(250);
 
 var _sunset2 = _interopRequireDefault(_sunset);
 
-var _tablet = __webpack_require__(231);
+var _tablet = __webpack_require__(251);
 
 var _tablet2 = _interopRequireDefault(_tablet);
 
-var _tag = __webpack_require__(232);
+var _tag = __webpack_require__(252);
 
 var _tag2 = _interopRequireDefault(_tag);
 
-var _target = __webpack_require__(233);
+var _target = __webpack_require__(253);
 
 var _target2 = _interopRequireDefault(_target);
 
-var _thermometer = __webpack_require__(234);
+var _terminal = __webpack_require__(254);
+
+var _terminal2 = _interopRequireDefault(_terminal);
+
+var _thermometer = __webpack_require__(255);
 
 var _thermometer2 = _interopRequireDefault(_thermometer);
 
-var _thumbsDown = __webpack_require__(235);
+var _thumbsDown = __webpack_require__(256);
 
 var _thumbsDown2 = _interopRequireDefault(_thumbsDown);
 
-var _thumbsUp = __webpack_require__(236);
+var _thumbsUp = __webpack_require__(257);
 
 var _thumbsUp2 = _interopRequireDefault(_thumbsUp);
 
-var _toggleLeft = __webpack_require__(237);
+var _toggleLeft = __webpack_require__(258);
 
 var _toggleLeft2 = _interopRequireDefault(_toggleLeft);
 
-var _toggleRight = __webpack_require__(238);
+var _toggleRight = __webpack_require__(259);
 
 var _toggleRight2 = _interopRequireDefault(_toggleRight);
 
-var _trash = __webpack_require__(239);
+var _trash = __webpack_require__(260);
 
 var _trash2 = _interopRequireDefault(_trash);
 
-var _trash3 = __webpack_require__(240);
+var _trash3 = __webpack_require__(261);
 
 var _trash4 = _interopRequireDefault(_trash3);
 
-var _trendingDown = __webpack_require__(241);
+var _trendingDown = __webpack_require__(262);
 
 var _trendingDown2 = _interopRequireDefault(_trendingDown);
 
-var _trendingUp = __webpack_require__(242);
+var _trendingUp = __webpack_require__(263);
 
 var _trendingUp2 = _interopRequireDefault(_trendingUp);
 
-var _triangle = __webpack_require__(243);
+var _triangle = __webpack_require__(264);
 
 var _triangle2 = _interopRequireDefault(_triangle);
 
-var _tv = __webpack_require__(244);
+var _truck = __webpack_require__(265);
+
+var _truck2 = _interopRequireDefault(_truck);
+
+var _tv = __webpack_require__(266);
 
 var _tv2 = _interopRequireDefault(_tv);
 
-var _twitter = __webpack_require__(245);
+var _twitter = __webpack_require__(267);
 
 var _twitter2 = _interopRequireDefault(_twitter);
 
-var _type = __webpack_require__(246);
+var _type = __webpack_require__(268);
 
 var _type2 = _interopRequireDefault(_type);
 
-var _umbrella = __webpack_require__(247);
+var _umbrella = __webpack_require__(269);
 
 var _umbrella2 = _interopRequireDefault(_umbrella);
 
-var _underline = __webpack_require__(248);
+var _underline = __webpack_require__(270);
 
 var _underline2 = _interopRequireDefault(_underline);
 
-var _unlock = __webpack_require__(249);
+var _unlock = __webpack_require__(271);
 
 var _unlock2 = _interopRequireDefault(_unlock);
 
-var _uploadCloud = __webpack_require__(250);
+var _uploadCloud = __webpack_require__(272);
 
 var _uploadCloud2 = _interopRequireDefault(_uploadCloud);
 
-var _upload = __webpack_require__(251);
+var _upload = __webpack_require__(273);
 
 var _upload2 = _interopRequireDefault(_upload);
 
-var _userCheck = __webpack_require__(252);
+var _userCheck = __webpack_require__(274);
 
 var _userCheck2 = _interopRequireDefault(_userCheck);
 
-var _userMinus = __webpack_require__(253);
+var _userMinus = __webpack_require__(275);
 
 var _userMinus2 = _interopRequireDefault(_userMinus);
 
-var _userPlus = __webpack_require__(254);
+var _userPlus = __webpack_require__(276);
 
 var _userPlus2 = _interopRequireDefault(_userPlus);
 
-var _userX = __webpack_require__(255);
+var _userX = __webpack_require__(277);
 
 var _userX2 = _interopRequireDefault(_userX);
 
-var _user = __webpack_require__(256);
+var _user = __webpack_require__(278);
 
 var _user2 = _interopRequireDefault(_user);
 
-var _users = __webpack_require__(257);
+var _users = __webpack_require__(279);
 
 var _users2 = _interopRequireDefault(_users);
 
-var _videoOff = __webpack_require__(258);
+var _videoOff = __webpack_require__(280);
 
 var _videoOff2 = _interopRequireDefault(_videoOff);
 
-var _video = __webpack_require__(259);
+var _video = __webpack_require__(281);
 
 var _video2 = _interopRequireDefault(_video);
 
-var _voicemail = __webpack_require__(260);
+var _voicemail = __webpack_require__(282);
 
 var _voicemail2 = _interopRequireDefault(_voicemail);
 
-var _volume = __webpack_require__(261);
+var _volume = __webpack_require__(283);
 
 var _volume2 = _interopRequireDefault(_volume);
 
-var _volume3 = __webpack_require__(262);
+var _volume3 = __webpack_require__(284);
 
 var _volume4 = _interopRequireDefault(_volume3);
 
-var _volumeX = __webpack_require__(263);
+var _volumeX = __webpack_require__(285);
 
 var _volumeX2 = _interopRequireDefault(_volumeX);
 
-var _volume5 = __webpack_require__(264);
+var _volume5 = __webpack_require__(286);
 
 var _volume6 = _interopRequireDefault(_volume5);
 
-var _watch = __webpack_require__(265);
+var _watch = __webpack_require__(287);
 
 var _watch2 = _interopRequireDefault(_watch);
 
-var _wifiOff = __webpack_require__(266);
+var _wifiOff = __webpack_require__(288);
 
 var _wifiOff2 = _interopRequireDefault(_wifiOff);
 
-var _wifi = __webpack_require__(267);
+var _wifi = __webpack_require__(289);
 
 var _wifi2 = _interopRequireDefault(_wifi);
 
-var _wind = __webpack_require__(268);
+var _wind = __webpack_require__(290);
 
 var _wind2 = _interopRequireDefault(_wind);
 
-var _xCircle = __webpack_require__(269);
+var _xCircle = __webpack_require__(291);
 
 var _xCircle2 = _interopRequireDefault(_xCircle);
 
-var _xSquare = __webpack_require__(270);
+var _xSquare = __webpack_require__(292);
 
 var _xSquare2 = _interopRequireDefault(_xSquare);
 
-var _x = __webpack_require__(271);
+var _x = __webpack_require__(293);
 
 var _x2 = _interopRequireDefault(_x);
 
-var _zap = __webpack_require__(272);
+var _zapOff = __webpack_require__(294);
+
+var _zapOff2 = _interopRequireDefault(_zapOff);
+
+var _zap = __webpack_require__(295);
 
 var _zap2 = _interopRequireDefault(_zap);
 
-var _zoomIn = __webpack_require__(273);
+var _zoomIn = __webpack_require__(296);
 
 var _zoomIn2 = _interopRequireDefault(_zoomIn);
 
-var _zoomOut = __webpack_require__(274);
+var _zoomOut = __webpack_require__(297);
 
 var _zoomOut2 = _interopRequireDefault(_zoomOut);
 
@@ -1795,11 +1887,15 @@ exports.AlignLeft = _alignLeft2.default;
 exports.AlignRight = _alignRight2.default;
 exports.Anchor = _anchor2.default;
 exports.Aperture = _aperture2.default;
+exports.ArrowDownCircle = _arrowDownCircle2.default;
 exports.ArrowDownLeft = _arrowDownLeft2.default;
 exports.ArrowDownRight = _arrowDownRight2.default;
 exports.ArrowDown = _arrowDown2.default;
+exports.ArrowLeftCircle = _arrowLeftCircle2.default;
 exports.ArrowLeft = _arrowLeft2.default;
+exports.ArrowRightCircle = _arrowRightCircle2.default;
 exports.ArrowRight = _arrowRight2.default;
+exports.ArrowUpCircle = _arrowUpCircle2.default;
 exports.ArrowUpLeft = _arrowUpLeft2.default;
 exports.ArrowUpRight = _arrowUpRight2.default;
 exports.ArrowUp = _arrowUp2.default;
@@ -1813,6 +1909,7 @@ exports.BellOff = _bellOff2.default;
 exports.Bell = _bell2.default;
 exports.Bluetooth = _bluetooth2.default;
 exports.Bold = _bold2.default;
+exports.BookOpen = _bookOpen2.default;
 exports.Book = _book2.default;
 exports.Bookmark = _bookmark2.default;
 exports.Box = _box2.default;
@@ -1842,6 +1939,7 @@ exports.CloudOff = _cloudOff2.default;
 exports.CloudRain = _cloudRain2.default;
 exports.CloudSnow = _cloudSnow2.default;
 exports.Cloud = _cloud2.default;
+exports.Code = _code2.default;
 exports.Codepen = _codepen2.default;
 exports.Command = _command2.default;
 exports.Compass = _compass2.default;
@@ -1858,8 +1956,10 @@ exports.Cpu = _cpu2.default;
 exports.CreditCard = _creditCard2.default;
 exports.Crop = _crop2.default;
 exports.Crosshair = _crosshair2.default;
+exports.Database = _database2.default;
 exports.Delete = _delete2.default;
 exports.Disc = _disc2.default;
+exports.DollarSign = _dollarSign2.default;
 exports.DownloadCloud = _downloadCloud2.default;
 exports.Download = _download2.default;
 exports.Droplet = _droplet2.default;
@@ -1879,11 +1979,18 @@ exports.File = _file2.default;
 exports.Film = _film2.default;
 exports.Filter = _filter2.default;
 exports.Flag = _flag2.default;
+exports.FolderMinus = _folderMinus2.default;
+exports.FolderPlus = _folderPlus2.default;
 exports.Folder = _folder2.default;
+exports.GitBranch = _gitBranch2.default;
+exports.GitCommit = _gitCommit2.default;
+exports.GitMerge = _gitMerge2.default;
+exports.GitPullRequest = _gitPullRequest2.default;
 exports.Github = _github2.default;
 exports.Gitlab = _gitlab2.default;
 exports.Globe = _globe2.default;
 exports.Grid = _grid2.default;
+exports.HardDrive = _hardDrive2.default;
 exports.Hash = _hash2.default;
 exports.Headphones = _headphones2.default;
 exports.Heart = _heart2.default;
@@ -1899,6 +2006,7 @@ exports.Layout = _layout2.default;
 exports.LifeBuoy = _lifeBuoy2.default;
 exports.Link2 = _link2.default;
 exports.Link = _link4.default;
+exports.Linkedin = _linkedin2.default;
 exports.List = _list2.default;
 exports.Loader = _loader2.default;
 exports.Lock = _lock2.default;
@@ -1956,14 +2064,18 @@ exports.Repeat = _repeat2.default;
 exports.Rewind = _rewind2.default;
 exports.RotateCcw = _rotateCcw2.default;
 exports.RotateCw = _rotateCw2.default;
+exports.Rss = _rss2.default;
 exports.Save = _save2.default;
 exports.Scissors = _scissors2.default;
 exports.Search = _search2.default;
+exports.Send = _send2.default;
 exports.Server = _server2.default;
 exports.Settings = _settings2.default;
 exports.Share2 = _share2.default;
 exports.Share = _share4.default;
+exports.ShieldOff = _shieldOff2.default;
 exports.Shield = _shield2.default;
+exports.ShoppingBag = _shoppingBag2.default;
 exports.ShoppingCart = _shoppingCart2.default;
 exports.Shuffle = _shuffle2.default;
 exports.Sidebar = _sidebar2.default;
@@ -1983,6 +2095,7 @@ exports.Sunset = _sunset2.default;
 exports.Tablet = _tablet2.default;
 exports.Tag = _tag2.default;
 exports.Target = _target2.default;
+exports.Terminal = _terminal2.default;
 exports.Thermometer = _thermometer2.default;
 exports.ThumbsDown = _thumbsDown2.default;
 exports.ThumbsUp = _thumbsUp2.default;
@@ -1993,6 +2106,7 @@ exports.Trash = _trash4.default;
 exports.TrendingDown = _trendingDown2.default;
 exports.TrendingUp = _trendingUp2.default;
 exports.Triangle = _triangle2.default;
+exports.Truck = _truck2.default;
 exports.Tv = _tv2.default;
 exports.Twitter = _twitter2.default;
 exports.Type = _type2.default;
@@ -2021,6 +2135,7 @@ exports.Wind = _wind2.default;
 exports.XCircle = _xCircle2.default;
 exports.XSquare = _xSquare2.default;
 exports.X = _x2.default;
+exports.ZapOff = _zapOff2.default;
 exports.Zap = _zap2.default;
 exports.ZoomIn = _zoomIn2.default;
 exports.ZoomOut = _zoomOut2.default;
@@ -19344,7 +19459,7 @@ module.exports = camelize;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Operation__ = __webpack_require__(32);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_react_feather__ = __webpack_require__(18);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_react_feather___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5_react_feather__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__compiler_js__ = __webpack_require__(275);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__compiler_js__ = __webpack_require__(298);
 
 
 
@@ -19363,11 +19478,11 @@ class App extends __WEBPACK_IMPORTED_MODULE_0_react__["Component"] {
       this.state = JSON.parse(localStorage.state);
     } else {
       this.state = { operations: [{
-          source: "/Users/matthijs/Projects/ekotex-wizard/css/sourcefile.css",
-          target: "/Users/matthijs/Projects/ekotex-wizard/css/critical.css",
+          source: __WEBPACK_IMPORTED_MODULE_3_electron__["remote"].app.getPath('home') + '/project-name/css/sourcefile.css',
+          target: __WEBPACK_IMPORTED_MODULE_3_electron__["remote"].app.getPath('home') + '/project-name/css/critical.css',
           url: 'http://localhost/',
           active: true,
-          name: "Operation 1",
+          name: "Operation " + (this.state.operations.length + 1),
           running: false
         }],
         errors: [],
@@ -19408,11 +19523,12 @@ class App extends __WEBPACK_IMPORTED_MODULE_0_react__["Component"] {
   addOperation() {
     let operations = this.state.operations;
     let currentOperation = {
-      source: __WEBPACK_IMPORTED_MODULE_3_electron__["remote"].app.getPath('home') + '/sourcefile.css',
-      target: __WEBPACK_IMPORTED_MODULE_3_electron__["remote"].app.getPath('home') + '/critical.css',
+      source: __WEBPACK_IMPORTED_MODULE_3_electron__["remote"].app.getPath('home') + '/project-name/css/sourcefile.css',
+      target: __WEBPACK_IMPORTED_MODULE_3_electron__["remote"].app.getPath('home') + '/project-name/css/critical.css',
       url: 'http://localhost',
       active: true,
-      name: "Operation " + (this.state.operations.length + 1)
+      name: "Operation " + (this.state.operations.length + 1),
+      running: false
     };
     operations.push(currentOperation);
 
@@ -21090,6 +21206,67 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
 
+var ArrowDownCircle = function ArrowDownCircle(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('circle', { cx: '12', cy: '12', r: '10' }),
+    _react2.default.createElement('polyline', { points: '8 12 12 16 16 12' }),
+    _react2.default.createElement('line', { x1: '12', y1: '8', x2: '12', y2: '16' })
+  );
+};
+
+ArrowDownCircle.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+ArrowDownCircle.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = ArrowDownCircle;
+
+/***/ }),
+/* 47 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
 var ArrowDownLeft = function ArrowDownLeft(props) {
   var color = props.color,
       size = props.size,
@@ -21101,27 +21278,15 @@ var ArrowDownLeft = function ArrowDownLeft(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('line', {
-      x1: '18',
-      y1: '6',
-      x2: '6',
-      y2: '18',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '15 18 6 18 6 9',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('line', { x1: '17', y1: '7', x2: '7', y2: '17' }),
+    _react2.default.createElement('polyline', { points: '17 17 7 17 7 7' })
   );
 };
 
@@ -21138,7 +21303,7 @@ ArrowDownLeft.defaultProps = {
 exports.default = ArrowDownLeft;
 
 /***/ }),
-/* 47 */
+/* 48 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -21173,27 +21338,15 @@ var ArrowDownRight = function ArrowDownRight(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('line', {
-      x1: '6',
-      y1: '6',
-      x2: '18',
-      y2: '18',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '9 18 18 18 18 9',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('line', { x1: '7', y1: '7', x2: '17', y2: '17' }),
+    _react2.default.createElement('polyline', { points: '17 7 17 17 7 17' })
   );
 };
 
@@ -21210,7 +21363,7 @@ ArrowDownRight.defaultProps = {
 exports.default = ArrowDownRight;
 
 /***/ }),
-/* 48 */
+/* 49 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -21252,8 +21405,8 @@ var ArrowDown = function ArrowDown(props) {
       strokeLinecap: 'round',
       strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('line', { x1: '12', y1: '4', x2: '12', y2: '20' }),
-    _react2.default.createElement('polyline', { points: '18 14 12 20 6 14' })
+    _react2.default.createElement('line', { x1: '12', y1: '5', x2: '12', y2: '19' }),
+    _react2.default.createElement('polyline', { points: '19 12 12 19 5 12' })
   );
 };
 
@@ -21270,7 +21423,68 @@ ArrowDown.defaultProps = {
 exports.default = ArrowDown;
 
 /***/ }),
-/* 49 */
+/* 50 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var ArrowLeftCircle = function ArrowLeftCircle(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('circle', { cx: '12', cy: '12', r: '10' }),
+    _react2.default.createElement('polyline', { points: '12 8 8 12 12 16' }),
+    _react2.default.createElement('line', { x1: '16', y1: '12', x2: '8', y2: '12' })
+  );
+};
+
+ArrowLeftCircle.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+ArrowLeftCircle.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = ArrowLeftCircle;
+
+/***/ }),
+/* 51 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -21312,8 +21526,8 @@ var ArrowLeft = function ArrowLeft(props) {
       strokeLinecap: 'round',
       strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('line', { x1: '20', y1: '12', x2: '4', y2: '12' }),
-    _react2.default.createElement('polyline', { points: '10 18 4 12 10 6' })
+    _react2.default.createElement('line', { x1: '19', y1: '12', x2: '5', y2: '12' }),
+    _react2.default.createElement('polyline', { points: '12 19 5 12 12 5' })
   );
 };
 
@@ -21330,7 +21544,68 @@ ArrowLeft.defaultProps = {
 exports.default = ArrowLeft;
 
 /***/ }),
-/* 50 */
+/* 52 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var ArrowRightCircle = function ArrowRightCircle(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('circle', { cx: '12', cy: '12', r: '10' }),
+    _react2.default.createElement('polyline', { points: '12 16 16 12 12 8' }),
+    _react2.default.createElement('line', { x1: '8', y1: '12', x2: '16', y2: '12' })
+  );
+};
+
+ArrowRightCircle.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+ArrowRightCircle.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = ArrowRightCircle;
+
+/***/ }),
+/* 53 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -21372,8 +21647,8 @@ var ArrowRight = function ArrowRight(props) {
       strokeLinecap: 'round',
       strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('line', { x1: '4', y1: '12', x2: '20', y2: '12' }),
-    _react2.default.createElement('polyline', { points: '14 6 20 12 14 18' })
+    _react2.default.createElement('line', { x1: '5', y1: '12', x2: '19', y2: '12' }),
+    _react2.default.createElement('polyline', { points: '12 5 19 12 12 19' })
   );
 };
 
@@ -21390,7 +21665,68 @@ ArrowRight.defaultProps = {
 exports.default = ArrowRight;
 
 /***/ }),
-/* 51 */
+/* 54 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var ArrowUpCircle = function ArrowUpCircle(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('circle', { cx: '12', cy: '12', r: '10' }),
+    _react2.default.createElement('polyline', { points: '16 12 12 8 8 12' }),
+    _react2.default.createElement('line', { x1: '12', y1: '16', x2: '12', y2: '8' })
+  );
+};
+
+ArrowUpCircle.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+ArrowUpCircle.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = ArrowUpCircle;
+
+/***/ }),
+/* 55 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -21425,27 +21761,15 @@ var ArrowUpLeft = function ArrowUpLeft(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('line', {
-      x1: '18',
-      y1: '18',
-      x2: '6',
-      y2: '6',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '15 6 6 6 6 15',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('line', { x1: '17', y1: '17', x2: '7', y2: '7' }),
+    _react2.default.createElement('polyline', { points: '7 17 7 7 17 7' })
   );
 };
 
@@ -21462,7 +21786,7 @@ ArrowUpLeft.defaultProps = {
 exports.default = ArrowUpLeft;
 
 /***/ }),
-/* 52 */
+/* 56 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -21497,27 +21821,15 @@ var ArrowUpRight = function ArrowUpRight(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('line', {
-      x1: '6',
-      y1: '18',
-      x2: '18',
-      y2: '6',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '9 6 18 6 18 15',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('line', { x1: '7', y1: '17', x2: '17', y2: '7' }),
+    _react2.default.createElement('polyline', { points: '7 7 17 7 17 17' })
   );
 };
 
@@ -21534,7 +21846,7 @@ ArrowUpRight.defaultProps = {
 exports.default = ArrowUpRight;
 
 /***/ }),
-/* 53 */
+/* 57 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -21576,8 +21888,8 @@ var ArrowUp = function ArrowUp(props) {
       strokeLinecap: 'round',
       strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('line', { x1: '12', y1: '20', x2: '12', y2: '4' }),
-    _react2.default.createElement('polyline', { points: '6 10 12 4 18 10' })
+    _react2.default.createElement('line', { x1: '12', y1: '19', x2: '12', y2: '5' }),
+    _react2.default.createElement('polyline', { points: '5 12 12 5 19 12' })
   );
 };
 
@@ -21594,7 +21906,7 @@ ArrowUp.defaultProps = {
 exports.default = ArrowUp;
 
 /***/ }),
-/* 54 */
+/* 58 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -21637,7 +21949,7 @@ var AtSign = function AtSign(props) {
       strokeLinejoin: 'round'
     }, otherProps),
     _react2.default.createElement('circle', { cx: '12', cy: '12', r: '4' }),
-    _react2.default.createElement('path', { d: 'M16 12v1a3 3 0 0 0 6 0v-1a10 10 0 1 0-3.92 7.94' })
+    _react2.default.createElement('path', { d: 'M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-3.92 7.94' })
   );
 };
 
@@ -21654,7 +21966,7 @@ AtSign.defaultProps = {
 exports.default = AtSign;
 
 /***/ }),
-/* 55 */
+/* 59 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -21714,7 +22026,7 @@ Award.defaultProps = {
 exports.default = Award;
 
 /***/ }),
-/* 56 */
+/* 60 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -21749,41 +22061,16 @@ var BarChart2 = function BarChart2(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('rect', {
-      x: '10',
-      y: '3',
-      width: '4',
-      height: '18',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('rect', {
-      x: '18',
-      y: '8',
-      width: '4',
-      height: '13',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('rect', {
-      x: '2',
-      y: '13',
-      width: '4',
-      height: '8',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('line', { x1: '18', y1: '20', x2: '18', y2: '10' }),
+    _react2.default.createElement('line', { x1: '12', y1: '20', x2: '12', y2: '4' }),
+    _react2.default.createElement('line', { x1: '6', y1: '20', x2: '6', y2: '14' })
   );
 };
 
@@ -21800,7 +22087,7 @@ BarChart2.defaultProps = {
 exports.default = BarChart2;
 
 /***/ }),
-/* 57 */
+/* 61 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -21835,41 +22122,16 @@ var BarChart = function BarChart(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('rect', {
-      x: '18',
-      y: '3',
-      width: '4',
-      height: '18',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('rect', {
-      x: '10',
-      y: '8',
-      width: '4',
-      height: '13',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('rect', {
-      x: '2',
-      y: '13',
-      width: '4',
-      height: '8',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('line', { x1: '12', y1: '20', x2: '12', y2: '10' }),
+    _react2.default.createElement('line', { x1: '18', y1: '20', x2: '18', y2: '4' }),
+    _react2.default.createElement('line', { x1: '6', y1: '20', x2: '6', y2: '16' })
   );
 };
 
@@ -21886,7 +22148,7 @@ BarChart.defaultProps = {
 exports.default = BarChart;
 
 /***/ }),
-/* 58 */
+/* 62 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -21921,35 +22183,16 @@ var BatteryCharging = function BatteryCharging(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M5 18H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h3.19M15 6h2a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-3.19',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '23',
-      y1: '13',
-      x2: '23',
-      y2: '11',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '11 6 7 12 13 12 9 18',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M5 18H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h3.19M15 6h2a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-3.19' }),
+    _react2.default.createElement('line', { x1: '23', y1: '13', x2: '23', y2: '11' }),
+    _react2.default.createElement('polyline', { points: '11 6 7 12 13 12 9 18' })
   );
 };
 
@@ -21966,7 +22209,7 @@ BatteryCharging.defaultProps = {
 exports.default = BatteryCharging;
 
 /***/ }),
-/* 59 */
+/* 63 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22026,7 +22269,7 @@ Battery.defaultProps = {
 exports.default = Battery;
 
 /***/ }),
-/* 60 */
+/* 64 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22086,7 +22329,7 @@ BellOff.defaultProps = {
 exports.default = BellOff;
 
 /***/ }),
-/* 61 */
+/* 65 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22145,7 +22388,7 @@ Bell.defaultProps = {
 exports.default = Bell;
 
 /***/ }),
-/* 62 */
+/* 66 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22204,7 +22447,7 @@ Bluetooth.defaultProps = {
 exports.default = Bluetooth;
 
 /***/ }),
-/* 63 */
+/* 67 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22239,24 +22482,15 @@ var Bold = function Bold(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M6,4h8a4,4,0,0,1,4,4h0a4,4,0,0,1-4,4H6Z',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M6,12h9a4,4,0,0,1,4,4h0a4,4,0,0,1-4,4H6Z',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M6 4h8a4 4 0 0 1 4 4 4 4 0 0 1-4 4H6z' }),
+    _react2.default.createElement('path', { d: 'M6 12h9a4 4 0 0 1 4 4 4 4 0 0 1-4 4H6z' })
   );
 };
 
@@ -22273,7 +22507,67 @@ Bold.defaultProps = {
 exports.default = Bold;
 
 /***/ }),
-/* 64 */
+/* 68 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var BookOpen = function BookOpen(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('path', { d: 'M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z' }),
+    _react2.default.createElement('path', { d: 'M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z' })
+  );
+};
+
+BookOpen.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+BookOpen.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = BookOpen;
+
+/***/ }),
+/* 69 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22333,7 +22627,7 @@ Book.defaultProps = {
 exports.default = Book;
 
 /***/ }),
-/* 65 */
+/* 70 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22392,7 +22686,7 @@ Bookmark.defaultProps = {
 exports.default = Bookmark;
 
 /***/ }),
-/* 66 */
+/* 71 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22427,35 +22721,16 @@ var Box = function Box(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M12.89 1.45l8 4A2 2 0 0 1 22 7.24v9.53a2 2 0 0 1-1.11 1.79l-8 4a2 2 0 0 1-1.79 0l-8-4a2 2 0 0 1-1.1-1.8V7.24a2 2 0 0 1 1.11-1.79l8-4a2 2 0 0 1 1.78 0z',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '2.32 6.16 12 11 21.68 6.16',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '22.76',
-      x2: '12',
-      y2: '11',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M12.89 1.45l8 4A2 2 0 0 1 22 7.24v9.53a2 2 0 0 1-1.11 1.79l-8 4a2 2 0 0 1-1.79 0l-8-4a2 2 0 0 1-1.1-1.8V7.24a2 2 0 0 1 1.11-1.79l8-4a2 2 0 0 1 1.78 0z' }),
+    _react2.default.createElement('polyline', { points: '2.32 6.16 12 11 21.68 6.16' }),
+    _react2.default.createElement('line', { x1: '12', y1: '22.76', x2: '12', y2: '11' })
   );
 };
 
@@ -22472,7 +22747,7 @@ Box.defaultProps = {
 exports.default = Box;
 
 /***/ }),
-/* 67 */
+/* 72 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22532,7 +22807,7 @@ Briefcase.defaultProps = {
 exports.default = Briefcase;
 
 /***/ }),
-/* 68 */
+/* 73 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22594,7 +22869,7 @@ Calendar.defaultProps = {
 exports.default = Calendar;
 
 /***/ }),
-/* 69 */
+/* 74 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22654,7 +22929,7 @@ CameraOff.defaultProps = {
 exports.default = CameraOff;
 
 /***/ }),
-/* 70 */
+/* 75 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22714,7 +22989,7 @@ Camera.defaultProps = {
 exports.default = Camera;
 
 /***/ }),
-/* 71 */
+/* 76 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22749,27 +23024,15 @@ var Cast = function Cast(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M2 16.1A5 5 0 0 1 5.9 20M2 12.05A9 9 0 0 1 9.95 20M2 8V6a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '2',
-      y1: '20',
-      x2: '2',
-      y2: '20',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M2 16.1A5 5 0 0 1 5.9 20M2 12.05A9 9 0 0 1 9.95 20M2 8V6a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6' }),
+    _react2.default.createElement('line', { x1: '2', y1: '20', x2: '2', y2: '20' })
   );
 };
 
@@ -22786,7 +23049,7 @@ Cast.defaultProps = {
 exports.default = Cast;
 
 /***/ }),
-/* 72 */
+/* 77 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22828,8 +23091,8 @@ var CheckCircle = function CheckCircle(props) {
       strokeLinecap: 'round',
       strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', { d: 'M22 11.07V12a10 10 0 1 1-5.93-9.14' }),
-    _react2.default.createElement('polyline', { points: '23 3 12 14 9 11' })
+    _react2.default.createElement('path', { d: 'M22 11.08V12a10 10 0 1 1-5.93-9.14' }),
+    _react2.default.createElement('polyline', { points: '22 4 12 14.01 9 11.01' })
   );
 };
 
@@ -22846,7 +23109,7 @@ CheckCircle.defaultProps = {
 exports.default = CheckCircle;
 
 /***/ }),
-/* 73 */
+/* 78 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22888,7 +23151,7 @@ var CheckSquare = function CheckSquare(props) {
       strokeLinecap: 'round',
       strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', { points: '9 11 12 14 23 3' }),
+    _react2.default.createElement('polyline', { points: '9 11 12 14 22 4' }),
     _react2.default.createElement('path', { d: 'M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11' })
   );
 };
@@ -22906,7 +23169,7 @@ CheckSquare.defaultProps = {
 exports.default = CheckSquare;
 
 /***/ }),
-/* 74 */
+/* 79 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22965,7 +23228,7 @@ Check.defaultProps = {
 exports.default = Check;
 
 /***/ }),
-/* 75 */
+/* 80 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -23024,7 +23287,7 @@ ChevronDown.defaultProps = {
 exports.default = ChevronDown;
 
 /***/ }),
-/* 76 */
+/* 81 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -23083,7 +23346,7 @@ ChevronLeft.defaultProps = {
 exports.default = ChevronLeft;
 
 /***/ }),
-/* 77 */
+/* 82 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -23142,7 +23405,7 @@ ChevronRight.defaultProps = {
 exports.default = ChevronRight;
 
 /***/ }),
-/* 78 */
+/* 83 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -23201,7 +23464,7 @@ ChevronUp.defaultProps = {
 exports.default = ChevronUp;
 
 /***/ }),
-/* 79 */
+/* 84 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -23236,24 +23499,15 @@ var ChevronsDown = function ChevronsDown(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', {
-      points: '7 13 12 18 17 13',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '7 6 12 11 17 6',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polyline', { points: '7 13 12 18 17 13' }),
+    _react2.default.createElement('polyline', { points: '7 6 12 11 17 6' })
   );
 };
 
@@ -23270,7 +23524,7 @@ ChevronsDown.defaultProps = {
 exports.default = ChevronsDown;
 
 /***/ }),
-/* 80 */
+/* 85 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -23305,24 +23559,15 @@ var ChevronsLeft = function ChevronsLeft(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', {
-      points: '11 17 6 12 11 7',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '18 17 13 12 18 7',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polyline', { points: '11 17 6 12 11 7' }),
+    _react2.default.createElement('polyline', { points: '18 17 13 12 18 7' })
   );
 };
 
@@ -23339,7 +23584,7 @@ ChevronsLeft.defaultProps = {
 exports.default = ChevronsLeft;
 
 /***/ }),
-/* 81 */
+/* 86 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -23374,24 +23619,15 @@ var ChevronsRight = function ChevronsRight(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', {
-      points: '13 17 18 12 13 7',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '6 17 11 12 6 7',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polyline', { points: '13 17 18 12 13 7' }),
+    _react2.default.createElement('polyline', { points: '6 17 11 12 6 7' })
   );
 };
 
@@ -23408,7 +23644,7 @@ ChevronsRight.defaultProps = {
 exports.default = ChevronsRight;
 
 /***/ }),
-/* 82 */
+/* 87 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -23443,24 +23679,15 @@ var ChevronsUp = function ChevronsUp(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', {
-      points: '17 11 12 6 7 11',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '17 18 12 13 7 18',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polyline', { points: '17 11 12 6 7 11' }),
+    _react2.default.createElement('polyline', { points: '17 18 12 13 7 18' })
   );
 };
 
@@ -23477,7 +23704,7 @@ ChevronsUp.defaultProps = {
 exports.default = ChevronsUp;
 
 /***/ }),
-/* 83 */
+/* 88 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -23540,7 +23767,7 @@ Chrome.defaultProps = {
 exports.default = Chrome;
 
 /***/ }),
-/* 84 */
+/* 89 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -23599,7 +23826,7 @@ Circle.defaultProps = {
 exports.default = Circle;
 
 /***/ }),
-/* 85 */
+/* 90 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -23659,7 +23886,7 @@ Clipboard.defaultProps = {
 exports.default = Clipboard;
 
 /***/ }),
-/* 86 */
+/* 91 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -23702,7 +23929,7 @@ var Clock = function Clock(props) {
       strokeLinejoin: 'round'
     }, otherProps),
     _react2.default.createElement('circle', { cx: '12', cy: '12', r: '10' }),
-    _react2.default.createElement('polyline', { points: '12 6 12 12 15 15' })
+    _react2.default.createElement('polyline', { points: '12 6 12 12 16 14' })
   );
 };
 
@@ -23719,7 +23946,7 @@ Clock.defaultProps = {
 exports.default = Clock;
 
 /***/ }),
-/* 87 */
+/* 92 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -23754,82 +23981,20 @@ var CloudDrizzle = function CloudDrizzle(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('line', {
-      x1: '8',
-      y1: '19',
-      x2: '8',
-      y2: '21',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '8',
-      y1: '13',
-      x2: '8',
-      y2: '15',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '16',
-      y1: '19',
-      x2: '16',
-      y2: '21',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '16',
-      y1: '13',
-      x2: '16',
-      y2: '15',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '21',
-      x2: '12',
-      y2: '23',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '15',
-      x2: '12',
-      y2: '17',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M20 16.58A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('line', { x1: '8', y1: '19', x2: '8', y2: '21' }),
+    _react2.default.createElement('line', { x1: '8', y1: '13', x2: '8', y2: '15' }),
+    _react2.default.createElement('line', { x1: '16', y1: '19', x2: '16', y2: '21' }),
+    _react2.default.createElement('line', { x1: '16', y1: '13', x2: '16', y2: '15' }),
+    _react2.default.createElement('line', { x1: '12', y1: '21', x2: '12', y2: '23' }),
+    _react2.default.createElement('line', { x1: '12', y1: '15', x2: '12', y2: '17' }),
+    _react2.default.createElement('path', { d: 'M20 16.58A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25' })
   );
 };
 
@@ -23846,7 +24011,7 @@ CloudDrizzle.defaultProps = {
 exports.default = CloudDrizzle;
 
 /***/ }),
-/* 88 */
+/* 93 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -23881,24 +24046,15 @@ var CloudLightning = function CloudLightning(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M19 16.9A5 5 0 0 0 18 7h-1.26a8 8 0 1 0-11.62 9',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '13 11 9 17 15 17 11 23',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M19 16.9A5 5 0 0 0 18 7h-1.26a8 8 0 1 0-11.62 9' }),
+    _react2.default.createElement('polyline', { points: '13 11 9 17 15 17 11 23' })
   );
 };
 
@@ -23915,7 +24071,7 @@ CloudLightning.defaultProps = {
 exports.default = CloudLightning;
 
 /***/ }),
-/* 89 */
+/* 94 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -23975,7 +24131,7 @@ CloudOff.defaultProps = {
 exports.default = CloudOff;
 
 /***/ }),
-/* 90 */
+/* 95 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -24010,49 +24166,17 @@ var CloudRain = function CloudRain(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('line', {
-      x1: '16',
-      y1: '13',
-      x2: '16',
-      y2: '21',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '8',
-      y1: '13',
-      x2: '8',
-      y2: '21',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '15',
-      x2: '12',
-      y2: '23',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M20 16.58A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('line', { x1: '16', y1: '13', x2: '16', y2: '21' }),
+    _react2.default.createElement('line', { x1: '8', y1: '13', x2: '8', y2: '21' }),
+    _react2.default.createElement('line', { x1: '12', y1: '15', x2: '12', y2: '23' }),
+    _react2.default.createElement('path', { d: 'M20 16.58A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25' })
   );
 };
 
@@ -24069,7 +24193,7 @@ CloudRain.defaultProps = {
 exports.default = CloudRain;
 
 /***/ }),
-/* 91 */
+/* 96 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -24104,82 +24228,20 @@ var CloudSnow = function CloudSnow(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '8',
-      y1: '16',
-      x2: '8',
-      y2: '16',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '8',
-      y1: '20',
-      x2: '8',
-      y2: '20',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '18',
-      x2: '12',
-      y2: '18',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '22',
-      x2: '12',
-      y2: '22',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '16',
-      y1: '16',
-      x2: '16',
-      y2: '16',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '16',
-      y1: '20',
-      x2: '16',
-      y2: '20',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25' }),
+    _react2.default.createElement('line', { x1: '8', y1: '16', x2: '8', y2: '16' }),
+    _react2.default.createElement('line', { x1: '8', y1: '20', x2: '8', y2: '20' }),
+    _react2.default.createElement('line', { x1: '12', y1: '18', x2: '12', y2: '18' }),
+    _react2.default.createElement('line', { x1: '12', y1: '22', x2: '12', y2: '22' }),
+    _react2.default.createElement('line', { x1: '16', y1: '16', x2: '16', y2: '16' }),
+    _react2.default.createElement('line', { x1: '16', y1: '20', x2: '16', y2: '20' })
   );
 };
 
@@ -24196,7 +24258,7 @@ CloudSnow.defaultProps = {
 exports.default = CloudSnow;
 
 /***/ }),
-/* 92 */
+/* 97 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -24255,7 +24317,67 @@ Cloud.defaultProps = {
 exports.default = Cloud;
 
 /***/ }),
-/* 93 */
+/* 98 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var Code = function Code(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('polyline', { points: '16 18 22 12 16 6' }),
+    _react2.default.createElement('polyline', { points: '8 6 2 12 8 18' })
+  );
+};
+
+Code.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+Code.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = Code;
+
+/***/ }),
+/* 99 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -24290,54 +24412,18 @@ var Codepen = function Codepen(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polygon', {
-      points: '12 2 22 8.5 22 15.5 12 22 2 15.5 2 8.5 12 2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '22',
-      x2: '12',
-      y2: '15.5',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '22 8.5 12 15.5 2 8.5',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '2 15.5 12 8.5 22 15.5',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '2',
-      x2: '12',
-      y2: '8.5',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polygon', { points: '12 2 22 8.5 22 15.5 12 22 2 15.5 2 8.5 12 2' }),
+    _react2.default.createElement('line', { x1: '12', y1: '22', x2: '12', y2: '15.5' }),
+    _react2.default.createElement('polyline', { points: '22 8.5 12 15.5 2 8.5' }),
+    _react2.default.createElement('polyline', { points: '2 15.5 12 8.5 22 15.5' }),
+    _react2.default.createElement('line', { x1: '12', y1: '2', x2: '12', y2: '8.5' })
   );
 };
 
@@ -24354,7 +24440,7 @@ Codepen.defaultProps = {
 exports.default = Codepen;
 
 /***/ }),
-/* 94 */
+/* 100 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -24413,7 +24499,7 @@ Command.defaultProps = {
 exports.default = Command;
 
 /***/ }),
-/* 95 */
+/* 101 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -24448,26 +24534,15 @@ var Compass = function Compass(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('circle', {
-      cx: '12',
-      cy: '12',
-      r: '10',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polygon', {
-      points: '16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('circle', { cx: '12', cy: '12', r: '10' }),
+    _react2.default.createElement('polygon', { points: '16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76' })
   );
 };
 
@@ -24484,7 +24559,7 @@ Compass.defaultProps = {
 exports.default = Compass;
 
 /***/ }),
-/* 96 */
+/* 102 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -24519,29 +24594,15 @@ var Copy = function Copy(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('rect', {
-      x: '9',
-      y: '9',
-      width: '13',
-      height: '13',
-      rx: '2',
-      ry: '2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('rect', { x: '9', y: '9', width: '13', height: '13', rx: '2', ry: '2' }),
+    _react2.default.createElement('path', { d: 'M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1' })
   );
 };
 
@@ -24558,7 +24619,7 @@ Copy.defaultProps = {
 exports.default = Copy;
 
 /***/ }),
-/* 97 */
+/* 103 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -24593,24 +24654,15 @@ var CornerDownLeft = function CornerDownLeft(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', {
-      points: '9 10 4 15 9 20',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M20 4v7a4 4 0 0 1-4 4H4',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polyline', { points: '9 10 4 15 9 20' }),
+    _react2.default.createElement('path', { d: 'M20 4v7a4 4 0 0 1-4 4H4' })
   );
 };
 
@@ -24627,7 +24679,7 @@ CornerDownLeft.defaultProps = {
 exports.default = CornerDownLeft;
 
 /***/ }),
-/* 98 */
+/* 104 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -24662,24 +24714,15 @@ var CornerDownRight = function CornerDownRight(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', {
-      points: '15 10 20 15 15 20',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M4 4v7a4 4 0 0 0 4 4h12',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polyline', { points: '15 10 20 15 15 20' }),
+    _react2.default.createElement('path', { d: 'M4 4v7a4 4 0 0 0 4 4h12' })
   );
 };
 
@@ -24696,7 +24739,7 @@ CornerDownRight.defaultProps = {
 exports.default = CornerDownRight;
 
 /***/ }),
-/* 99 */
+/* 105 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -24731,24 +24774,15 @@ var CornerLeftDown = function CornerLeftDown(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', {
-      points: '14 15 9 20 4 15',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M20 4h-7a4 4 0 0 0-4 4v12',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polyline', { points: '14 15 9 20 4 15' }),
+    _react2.default.createElement('path', { d: 'M20 4h-7a4 4 0 0 0-4 4v12' })
   );
 };
 
@@ -24765,7 +24799,7 @@ CornerLeftDown.defaultProps = {
 exports.default = CornerLeftDown;
 
 /***/ }),
-/* 100 */
+/* 106 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -24800,24 +24834,15 @@ var CornerLeftUp = function CornerLeftUp(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', {
-      points: '14 9 9 4 4 9',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M20 20h-7a4 4 0 0 1-4-4V4',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polyline', { points: '14 9 9 4 4 9' }),
+    _react2.default.createElement('path', { d: 'M20 20h-7a4 4 0 0 1-4-4V4' })
   );
 };
 
@@ -24834,7 +24859,7 @@ CornerLeftUp.defaultProps = {
 exports.default = CornerLeftUp;
 
 /***/ }),
-/* 101 */
+/* 107 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -24869,24 +24894,15 @@ var CornerRightDown = function CornerRightDown(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', {
-      points: '10 15 15 20 20 15',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M4 4h7a4 4 0 0 1 4 4v12',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polyline', { points: '10 15 15 20 20 15' }),
+    _react2.default.createElement('path', { d: 'M4 4h7a4 4 0 0 1 4 4v12' })
   );
 };
 
@@ -24903,7 +24919,7 @@ CornerRightDown.defaultProps = {
 exports.default = CornerRightDown;
 
 /***/ }),
-/* 102 */
+/* 108 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -24938,24 +24954,15 @@ var CornerRightUp = function CornerRightUp(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', {
-      points: '10 9 15 4 20 9',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M4 20h7a4 4 0 0 0 4-4V4',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polyline', { points: '10 9 15 4 20 9' }),
+    _react2.default.createElement('path', { d: 'M4 20h7a4 4 0 0 0 4-4V4' })
   );
 };
 
@@ -24972,7 +24979,7 @@ CornerRightUp.defaultProps = {
 exports.default = CornerRightUp;
 
 /***/ }),
-/* 103 */
+/* 109 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25007,24 +25014,15 @@ var CornerUpLeft = function CornerUpLeft(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', {
-      points: '9 14 4 9 9 4',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M20 20v-7a4 4 0 0 0-4-4H4',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polyline', { points: '9 14 4 9 9 4' }),
+    _react2.default.createElement('path', { d: 'M20 20v-7a4 4 0 0 0-4-4H4' })
   );
 };
 
@@ -25041,7 +25039,7 @@ CornerUpLeft.defaultProps = {
 exports.default = CornerUpLeft;
 
 /***/ }),
-/* 104 */
+/* 110 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25076,24 +25074,15 @@ var CornerUpRight = function CornerUpRight(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', {
-      points: '15 14 20 9 15 4',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M4 20v-7a4 4 0 0 1 4-4h12',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polyline', { points: '15 14 20 9 15 4' }),
+    _react2.default.createElement('path', { d: 'M4 20v-7a4 4 0 0 1 4-4h12' })
   );
 };
 
@@ -25110,7 +25099,7 @@ CornerUpRight.defaultProps = {
 exports.default = CornerUpRight;
 
 /***/ }),
-/* 105 */
+/* 111 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25178,7 +25167,7 @@ Cpu.defaultProps = {
 exports.default = Cpu;
 
 /***/ }),
-/* 106 */
+/* 112 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25213,32 +25202,15 @@ var CreditCard = function CreditCard(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('rect', {
-      x: '1',
-      y: '4',
-      width: '22',
-      height: '16',
-      rx: '2',
-      ry: '2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '1',
-      y1: '10',
-      x2: '23',
-      y2: '10',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('rect', { x: '1', y: '4', width: '22', height: '16', rx: '2', ry: '2' }),
+    _react2.default.createElement('line', { x1: '1', y1: '10', x2: '23', y2: '10' })
   );
 };
 
@@ -25255,7 +25227,7 @@ CreditCard.defaultProps = {
 exports.default = CreditCard;
 
 /***/ }),
-/* 107 */
+/* 113 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25290,24 +25262,15 @@ var Crop = function Crop(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M6.13,1,6,16a2,2,0,0,0,2,2H23',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M1,6.13,16,6a2,2,0,0,1,2,2V23',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M6.13 1L6 16a2 2 0 0 0 2 2h15' }),
+    _react2.default.createElement('path', { d: 'M1 6.13L16 6a2 2 0 0 1 2 2v15' })
   );
 };
 
@@ -25324,7 +25287,7 @@ Crop.defaultProps = {
 exports.default = Crop;
 
 /***/ }),
-/* 108 */
+/* 114 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25387,7 +25350,68 @@ Crosshair.defaultProps = {
 exports.default = Crosshair;
 
 /***/ }),
-/* 109 */
+/* 115 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var Database = function Database(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('ellipse', { cx: '12', cy: '5', rx: '9', ry: '3' }),
+    _react2.default.createElement('path', { d: 'M21 12c0 1.66-4 3-9 3s-9-1.34-9-3' }),
+    _react2.default.createElement('path', { d: 'M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5' })
+  );
+};
+
+Database.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+Database.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = Database;
+
+/***/ }),
+/* 116 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25448,7 +25472,7 @@ Delete.defaultProps = {
 exports.default = Delete;
 
 /***/ }),
-/* 110 */
+/* 117 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25508,7 +25532,67 @@ Disc.defaultProps = {
 exports.default = Disc;
 
 /***/ }),
-/* 111 */
+/* 118 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var DollarSign = function DollarSign(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('line', { x1: '12', y1: '1', x2: '12', y2: '23' }),
+    _react2.default.createElement('path', { d: 'M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6' })
+  );
+};
+
+DollarSign.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+DollarSign.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = DollarSign;
+
+/***/ }),
+/* 119 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25569,7 +25653,7 @@ DownloadCloud.defaultProps = {
 exports.default = DownloadCloud;
 
 /***/ }),
-/* 112 */
+/* 120 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25611,9 +25695,9 @@ var Download = function Download(props) {
       strokeLinecap: 'round',
       strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', { d: 'M3 17v3a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-3' }),
-    _react2.default.createElement('polyline', { points: '8 12 12 16 16 12' }),
-    _react2.default.createElement('line', { x1: '12', y1: '2', x2: '12', y2: '16' })
+    _react2.default.createElement('path', { d: 'M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4' }),
+    _react2.default.createElement('polyline', { points: '7 10 12 15 17 10' }),
+    _react2.default.createElement('line', { x1: '12', y1: '15', x2: '12', y2: '3' })
   );
 };
 
@@ -25630,7 +25714,7 @@ Download.defaultProps = {
 exports.default = Download;
 
 /***/ }),
-/* 113 */
+/* 121 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25665,15 +25749,14 @@ var Droplet = function Droplet(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
-    }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z',
+      viewBox: '0 0 24 24',
       fill: 'none',
       stroke: color,
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('path', { d: 'M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z' })
   );
 };
 
@@ -25690,7 +25773,7 @@ Droplet.defaultProps = {
 exports.default = Droplet;
 
 /***/ }),
-/* 114 */
+/* 122 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25725,16 +25808,14 @@ var Edit2 = function Edit2(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
-    }, otherProps),
-    _react2.default.createElement('polygon', {
-      points: '16 3 21 8 8 21 3 21 3 16 16 3',
+      viewBox: '0 0 24 24',
       fill: 'none',
       stroke: color,
+      strokeWidth: '2',
       strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('polygon', { points: '16 3 21 8 8 21 3 21 3 16 16 3' })
   );
 };
 
@@ -25751,7 +25832,7 @@ Edit2.defaultProps = {
 exports.default = Edit2;
 
 /***/ }),
-/* 115 */
+/* 123 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25786,27 +25867,15 @@ var Edit3 = function Edit3(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polygon', {
-      points: '14 2 18 6 7 17 3 17 3 13 14 2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '3',
-      y1: '22',
-      x2: '21',
-      y2: '22',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polygon', { points: '14 2 18 6 7 17 3 17 3 13 14 2' }),
+    _react2.default.createElement('line', { x1: '3', y1: '22', x2: '21', y2: '22' })
   );
 };
 
@@ -25823,7 +25892,7 @@ Edit3.defaultProps = {
 exports.default = Edit3;
 
 /***/ }),
-/* 116 */
+/* 124 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25883,7 +25952,7 @@ Edit.defaultProps = {
 exports.default = Edit;
 
 /***/ }),
-/* 117 */
+/* 125 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25944,7 +26013,7 @@ ExternalLink.defaultProps = {
 exports.default = ExternalLink;
 
 /***/ }),
-/* 118 */
+/* 126 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26004,7 +26073,7 @@ EyeOff.defaultProps = {
 exports.default = EyeOff;
 
 /***/ }),
-/* 119 */
+/* 127 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26064,7 +26133,7 @@ Eye.defaultProps = {
 exports.default = Eye;
 
 /***/ }),
-/* 120 */
+/* 128 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26123,7 +26192,7 @@ Facebook.defaultProps = {
 exports.default = Facebook;
 
 /***/ }),
-/* 121 */
+/* 129 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26183,7 +26252,7 @@ FastForward.defaultProps = {
 exports.default = FastForward;
 
 /***/ }),
-/* 122 */
+/* 130 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26244,7 +26313,7 @@ Feather.defaultProps = {
 exports.default = Feather;
 
 /***/ }),
-/* 123 */
+/* 131 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26279,35 +26348,16 @@ var FileMinus = function FileMinus(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '14 2 14 8 20 8',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '9',
-      y1: '15',
-      x2: '15',
-      y2: '15',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z' }),
+    _react2.default.createElement('polyline', { points: '14 2 14 8 20 8' }),
+    _react2.default.createElement('line', { x1: '9', y1: '15', x2: '15', y2: '15' })
   );
 };
 
@@ -26324,7 +26374,7 @@ FileMinus.defaultProps = {
 exports.default = FileMinus;
 
 /***/ }),
-/* 124 */
+/* 132 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26359,46 +26409,17 @@ var FilePlus = function FilePlus(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '14 2 14 8 20 8',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '18',
-      x2: '12',
-      y2: '12',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '9',
-      y1: '15',
-      x2: '15',
-      y2: '15',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z' }),
+    _react2.default.createElement('polyline', { points: '14 2 14 8 20 8' }),
+    _react2.default.createElement('line', { x1: '12', y1: '18', x2: '12', y2: '12' }),
+    _react2.default.createElement('line', { x1: '9', y1: '15', x2: '15', y2: '15' })
   );
 };
 
@@ -26415,7 +26436,7 @@ FilePlus.defaultProps = {
 exports.default = FilePlus;
 
 /***/ }),
-/* 125 */
+/* 133 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26450,54 +26471,18 @@ var FileText = function FileText(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '14 2 14 8 20 8',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '16',
-      y1: '13',
-      x2: '8',
-      y2: '13',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '16',
-      y1: '17',
-      x2: '8',
-      y2: '17',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '10 9 9 9 8 9',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z' }),
+    _react2.default.createElement('polyline', { points: '14 2 14 8 20 8' }),
+    _react2.default.createElement('line', { x1: '16', y1: '13', x2: '8', y2: '13' }),
+    _react2.default.createElement('line', { x1: '16', y1: '17', x2: '8', y2: '17' }),
+    _react2.default.createElement('polyline', { points: '10 9 9 9 8 9' })
   );
 };
 
@@ -26514,7 +26499,7 @@ FileText.defaultProps = {
 exports.default = FileText;
 
 /***/ }),
-/* 126 */
+/* 134 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26574,7 +26559,7 @@ File.defaultProps = {
 exports.default = File;
 
 /***/ }),
-/* 127 */
+/* 135 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26609,98 +26594,21 @@ var Film = function Film(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('rect', {
-      x: '2',
-      y: '2',
-      width: '20',
-      height: '20',
-      rx: '2.18',
-      ry: '2.18',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '7',
-      y1: '2',
-      x2: '7',
-      y2: '22',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '17',
-      y1: '2',
-      x2: '17',
-      y2: '22',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '2',
-      y1: '12',
-      x2: '22',
-      y2: '12',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '2',
-      y1: '7',
-      x2: '7',
-      y2: '7',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '2',
-      y1: '17',
-      x2: '7',
-      y2: '17',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '17',
-      y1: '17',
-      x2: '22',
-      y2: '17',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '17',
-      y1: '7',
-      x2: '22',
-      y2: '7',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('rect', { x: '2', y: '2', width: '20', height: '20', rx: '2.18', ry: '2.18' }),
+    _react2.default.createElement('line', { x1: '7', y1: '2', x2: '7', y2: '22' }),
+    _react2.default.createElement('line', { x1: '17', y1: '2', x2: '17', y2: '22' }),
+    _react2.default.createElement('line', { x1: '2', y1: '12', x2: '22', y2: '12' }),
+    _react2.default.createElement('line', { x1: '2', y1: '7', x2: '7', y2: '7' }),
+    _react2.default.createElement('line', { x1: '2', y1: '17', x2: '7', y2: '17' }),
+    _react2.default.createElement('line', { x1: '17', y1: '17', x2: '22', y2: '17' }),
+    _react2.default.createElement('line', { x1: '17', y1: '7', x2: '22', y2: '7' })
   );
 };
 
@@ -26717,7 +26625,7 @@ Film.defaultProps = {
 exports.default = Film;
 
 /***/ }),
-/* 128 */
+/* 136 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26776,7 +26684,7 @@ Filter.defaultProps = {
 exports.default = Filter;
 
 /***/ }),
-/* 129 */
+/* 137 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26836,7 +26744,128 @@ Flag.defaultProps = {
 exports.default = Flag;
 
 /***/ }),
-/* 130 */
+/* 138 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var FolderMinus = function FolderMinus(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('path', { d: 'M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z' }),
+    _react2.default.createElement('line', { x1: '9', y1: '14', x2: '15', y2: '14' })
+  );
+};
+
+FolderMinus.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+FolderMinus.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = FolderMinus;
+
+/***/ }),
+/* 139 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var FolderPlus = function FolderPlus(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('path', { d: 'M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z' }),
+    _react2.default.createElement('line', { x1: '12', y1: '11', x2: '12', y2: '17' }),
+    _react2.default.createElement('line', { x1: '9', y1: '14', x2: '15', y2: '14' })
+  );
+};
+
+FolderPlus.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+FolderPlus.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = FolderPlus;
+
+/***/ }),
+/* 140 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26895,7 +26924,253 @@ Folder.defaultProps = {
 exports.default = Folder;
 
 /***/ }),
-/* 131 */
+/* 141 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var GitBranch = function GitBranch(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('line', { x1: '6', y1: '3', x2: '6', y2: '15' }),
+    _react2.default.createElement('circle', { cx: '18', cy: '6', r: '3' }),
+    _react2.default.createElement('circle', { cx: '6', cy: '18', r: '3' }),
+    _react2.default.createElement('path', { d: 'M18 9a9 9 0 0 1-9 9' })
+  );
+};
+
+GitBranch.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+GitBranch.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = GitBranch;
+
+/***/ }),
+/* 142 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var GitCommit = function GitCommit(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('circle', { cx: '12', cy: '12', r: '4' }),
+    _react2.default.createElement('line', { x1: '1.05', y1: '12', x2: '7', y2: '12' }),
+    _react2.default.createElement('line', { x1: '17.01', y1: '12', x2: '22.96', y2: '12' })
+  );
+};
+
+GitCommit.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+GitCommit.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = GitCommit;
+
+/***/ }),
+/* 143 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var GitMerge = function GitMerge(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('circle', { cx: '18', cy: '18', r: '3' }),
+    _react2.default.createElement('circle', { cx: '6', cy: '6', r: '3' }),
+    _react2.default.createElement('path', { d: 'M6 21V9a9 9 0 0 0 9 9' })
+  );
+};
+
+GitMerge.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+GitMerge.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = GitMerge;
+
+/***/ }),
+/* 144 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var GitPullRequest = function GitPullRequest(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('circle', { cx: '18', cy: '18', r: '3' }),
+    _react2.default.createElement('circle', { cx: '6', cy: '6', r: '3' }),
+    _react2.default.createElement('path', { d: 'M13 6h3a2 2 0 0 1 2 2v7' }),
+    _react2.default.createElement('line', { x1: '6', y1: '9', x2: '6', y2: '21' })
+  );
+};
+
+GitPullRequest.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+GitPullRequest.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = GitPullRequest;
+
+/***/ }),
+/* 145 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26930,16 +27205,14 @@ var Github = function Github(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
-    }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22',
+      viewBox: '0 0 24 24',
       fill: 'none',
       stroke: color,
+      strokeWidth: '2',
       strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('path', { d: 'M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22' })
   );
 };
 
@@ -26956,7 +27229,7 @@ Github.defaultProps = {
 exports.default = Github;
 
 /***/ }),
-/* 132 */
+/* 146 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26991,16 +27264,14 @@ var Gitlab = function Gitlab(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
-    }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M22.65,14.39,12,22.13,1.35,14.39a.84.84,0,0,1-.3-.94L2.27,9.67,4.71,2.16A.42.42,0,0,1,4.82,2,.43.43,0,0,1,5.4,2a.42.42,0,0,1,.11.18L7.95,9.67h8.1l2.44-7.51A.42.42,0,0,1,18.6,2a.43.43,0,0,1,.58,0,.42.42,0,0,1,.11.18l2.44,7.51L23,13.45A.84.84,0,0,1,22.65,14.39Z',
+      viewBox: '0 0 24 24',
       fill: 'none',
       stroke: color,
+      strokeWidth: '2',
       strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('path', { d: 'M22.65 14.39L12 22.13 1.35 14.39a.84.84 0 0 1-.3-.94l1.22-3.78 2.44-7.51A.42.42 0 0 1 4.82 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.49h8.1l2.44-7.51A.42.42 0 0 1 18.6 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.51L23 13.45a.84.84 0 0 1-.35.94z' })
   );
 };
 
@@ -27017,7 +27288,7 @@ Gitlab.defaultProps = {
 exports.default = Gitlab;
 
 /***/ }),
-/* 133 */
+/* 147 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27078,7 +27349,7 @@ Globe.defaultProps = {
 exports.default = Globe;
 
 /***/ }),
-/* 134 */
+/* 148 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27113,52 +27384,17 @@ var Grid = function Grid(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('rect', {
-      x: '3',
-      y: '3',
-      width: '7',
-      height: '7',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('rect', {
-      x: '14',
-      y: '3',
-      width: '7',
-      height: '7',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('rect', {
-      x: '14',
-      y: '14',
-      width: '7',
-      height: '7',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('rect', {
-      x: '3',
-      y: '14',
-      width: '7',
-      height: '7',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('rect', { x: '3', y: '3', width: '7', height: '7' }),
+    _react2.default.createElement('rect', { x: '14', y: '3', width: '7', height: '7' }),
+    _react2.default.createElement('rect', { x: '14', y: '14', width: '7', height: '7' }),
+    _react2.default.createElement('rect', { x: '3', y: '14', width: '7', height: '7' })
   );
 };
 
@@ -27175,7 +27411,69 @@ Grid.defaultProps = {
 exports.default = Grid;
 
 /***/ }),
-/* 135 */
+/* 149 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var HardDrive = function HardDrive(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('line', { x1: '22', y1: '12', x2: '2', y2: '12' }),
+    _react2.default.createElement('path', { d: 'M5.45 5.11L2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z' }),
+    _react2.default.createElement('line', { x1: '6', y1: '16', x2: '6', y2: '16' }),
+    _react2.default.createElement('line', { x1: '10', y1: '16', x2: '10', y2: '16' })
+  );
+};
+
+HardDrive.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+HardDrive.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = HardDrive;
+
+/***/ }),
+/* 150 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27237,7 +27535,7 @@ Hash.defaultProps = {
 exports.default = Hash;
 
 /***/ }),
-/* 136 */
+/* 151 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27297,7 +27595,7 @@ Headphones.defaultProps = {
 exports.default = Headphones;
 
 /***/ }),
-/* 137 */
+/* 152 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27356,7 +27654,7 @@ Heart.defaultProps = {
 exports.default = Heart;
 
 /***/ }),
-/* 138 */
+/* 153 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27391,37 +27689,16 @@ var HelpCircle = function HelpCircle(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M9.09,9a3,3,0,0,1,5.83,1c0,2-3,3-3,3',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('circle', {
-      cx: '12',
-      cy: '12',
-      r: '10',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '17',
-      x2: '12',
-      y2: '17',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3' }),
+    _react2.default.createElement('circle', { cx: '12', cy: '12', r: '10' }),
+    _react2.default.createElement('line', { x1: '12', y1: '17', x2: '12', y2: '17' })
   );
 };
 
@@ -27438,7 +27715,7 @@ HelpCircle.defaultProps = {
 exports.default = HelpCircle;
 
 /***/ }),
-/* 139 */
+/* 154 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27498,7 +27775,7 @@ Home.defaultProps = {
 exports.default = Home;
 
 /***/ }),
-/* 140 */
+/* 155 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27559,7 +27836,7 @@ Image.defaultProps = {
 exports.default = Image;
 
 /***/ }),
-/* 141 */
+/* 156 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27601,8 +27878,8 @@ var Inbox = function Inbox(props) {
       strokeLinecap: 'round',
       strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', { points: '22 13 16 13 14 16 10 16 8 13 2 13' }),
-    _react2.default.createElement('path', { d: 'M5.47 5.19L2 13v5a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-5l-3.47-7.81A2 2 0 0 0 16.7 4H7.3a2 2 0 0 0-1.83 1.19z' })
+    _react2.default.createElement('polyline', { points: '22 12 16 12 14 15 10 15 8 12 2 12' }),
+    _react2.default.createElement('path', { d: 'M5.45 5.11L2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z' })
   );
 };
 
@@ -27619,7 +27896,7 @@ Inbox.defaultProps = {
 exports.default = Inbox;
 
 /***/ }),
-/* 142 */
+/* 157 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27680,7 +27957,7 @@ Info.defaultProps = {
 exports.default = Info;
 
 /***/ }),
-/* 143 */
+/* 158 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27741,7 +28018,7 @@ Instagram.defaultProps = {
 exports.default = Instagram;
 
 /***/ }),
-/* 144 */
+/* 159 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27776,41 +28053,16 @@ var Italic = function Italic(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('line', {
-      x1: '19',
-      y1: '4',
-      x2: '10',
-      y2: '4',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '14',
-      y1: '20',
-      x2: '5',
-      y2: '20',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '15',
-      y1: '4',
-      x2: '9',
-      y2: '20',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('line', { x1: '19', y1: '4', x2: '10', y2: '4' }),
+    _react2.default.createElement('line', { x1: '14', y1: '20', x2: '5', y2: '20' }),
+    _react2.default.createElement('line', { x1: '15', y1: '4', x2: '9', y2: '20' })
   );
 };
 
@@ -27827,7 +28079,7 @@ Italic.defaultProps = {
 exports.default = Italic;
 
 /***/ }),
-/* 145 */
+/* 160 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27888,7 +28140,7 @@ Layers.defaultProps = {
 exports.default = Layers;
 
 /***/ }),
-/* 146 */
+/* 161 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27949,7 +28201,7 @@ Layout.defaultProps = {
 exports.default = Layout;
 
 /***/ }),
-/* 147 */
+/* 162 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28014,7 +28266,7 @@ LifeBuoy.defaultProps = {
 exports.default = LifeBuoy;
 
 /***/ }),
-/* 148 */
+/* 163 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28049,27 +28301,15 @@ var Link2 = function Link2(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '8',
-      y1: '12',
-      x2: '16',
-      y2: '12',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3' }),
+    _react2.default.createElement('line', { x1: '8', y1: '12', x2: '16', y2: '12' })
   );
 };
 
@@ -28086,7 +28326,7 @@ Link2.defaultProps = {
 exports.default = Link2;
 
 /***/ }),
-/* 149 */
+/* 164 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28121,24 +28361,15 @@ var Link = function Link(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71' }),
+    _react2.default.createElement('path', { d: 'M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71' })
   );
 };
 
@@ -28155,7 +28386,68 @@ Link.defaultProps = {
 exports.default = Link;
 
 /***/ }),
-/* 150 */
+/* 165 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var Linkedin = function Linkedin(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('path', { d: 'M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z' }),
+    _react2.default.createElement('rect', { x: '2', y: '9', width: '4', height: '12' }),
+    _react2.default.createElement('circle', { cx: '4', cy: '4', r: '2' })
+  );
+};
+
+Linkedin.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+Linkedin.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = Linkedin;
+
+/***/ }),
+/* 166 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28190,74 +28482,19 @@ var List = function List(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('line', {
-      x1: '8',
-      y1: '6',
-      x2: '21',
-      y2: '6',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '8',
-      y1: '12',
-      x2: '21',
-      y2: '12',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '8',
-      y1: '18',
-      x2: '21',
-      y2: '18',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '3',
-      y1: '6',
-      x2: '3',
-      y2: '6',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '3',
-      y1: '12',
-      x2: '3',
-      y2: '12',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '3',
-      y1: '18',
-      x2: '3',
-      y2: '18',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('line', { x1: '8', y1: '6', x2: '21', y2: '6' }),
+    _react2.default.createElement('line', { x1: '8', y1: '12', x2: '21', y2: '12' }),
+    _react2.default.createElement('line', { x1: '8', y1: '18', x2: '21', y2: '18' }),
+    _react2.default.createElement('line', { x1: '3', y1: '6', x2: '3', y2: '6' }),
+    _react2.default.createElement('line', { x1: '3', y1: '12', x2: '3', y2: '12' }),
+    _react2.default.createElement('line', { x1: '3', y1: '18', x2: '3', y2: '18' })
   );
 };
 
@@ -28274,7 +28511,7 @@ List.defaultProps = {
 exports.default = List;
 
 /***/ }),
-/* 151 */
+/* 167 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28340,7 +28577,7 @@ Loader.defaultProps = {
 exports.default = Loader;
 
 /***/ }),
-/* 152 */
+/* 168 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28400,7 +28637,7 @@ Lock.defaultProps = {
 exports.default = Lock;
 
 /***/ }),
-/* 153 */
+/* 169 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28435,35 +28672,16 @@ var LogIn = function LogIn(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M14 22h5a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2h-5',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '11 16 15 12 11 8',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '15',
-      y1: '12',
-      x2: '3',
-      y2: '12',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4' }),
+    _react2.default.createElement('polyline', { points: '10 17 15 12 10 7' }),
+    _react2.default.createElement('line', { x1: '15', y1: '12', x2: '3', y2: '12' })
   );
 };
 
@@ -28480,7 +28698,7 @@ LogIn.defaultProps = {
 exports.default = LogIn;
 
 /***/ }),
-/* 154 */
+/* 170 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28515,35 +28733,16 @@ var LogOut = function LogOut(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M10 22H5a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h5',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '17 16 21 12 17 8',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '21',
-      y1: '12',
-      x2: '9',
-      y2: '12',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4' }),
+    _react2.default.createElement('polyline', { points: '16 17 21 12 16 7' }),
+    _react2.default.createElement('line', { x1: '21', y1: '12', x2: '9', y2: '12' })
   );
 };
 
@@ -28560,7 +28759,7 @@ LogOut.defaultProps = {
 exports.default = LogOut;
 
 /***/ }),
-/* 155 */
+/* 171 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28620,7 +28819,7 @@ Mail.defaultProps = {
 exports.default = Mail;
 
 /***/ }),
-/* 156 */
+/* 172 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28680,7 +28879,7 @@ MapPin.defaultProps = {
 exports.default = MapPin;
 
 /***/ }),
-/* 157 */
+/* 173 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28741,7 +28940,7 @@ Map.defaultProps = {
 exports.default = Map;
 
 /***/ }),
-/* 158 */
+/* 174 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28803,7 +29002,7 @@ Maximize2.defaultProps = {
 exports.default = Maximize2;
 
 /***/ }),
-/* 159 */
+/* 175 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28862,7 +29061,7 @@ Maximize.defaultProps = {
 exports.default = Maximize;
 
 /***/ }),
-/* 160 */
+/* 176 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28923,7 +29122,7 @@ Menu.defaultProps = {
 exports.default = Menu;
 
 /***/ }),
-/* 161 */
+/* 177 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28982,7 +29181,7 @@ MessageCircle.defaultProps = {
 exports.default = MessageCircle;
 
 /***/ }),
-/* 162 */
+/* 178 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29041,7 +29240,7 @@ MessageSquare.defaultProps = {
 exports.default = MessageSquare;
 
 /***/ }),
-/* 163 */
+/* 179 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29104,7 +29303,7 @@ MicOff.defaultProps = {
 exports.default = MicOff;
 
 /***/ }),
-/* 164 */
+/* 180 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29166,7 +29365,7 @@ Mic.defaultProps = {
 exports.default = Mic;
 
 /***/ }),
-/* 165 */
+/* 181 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29228,7 +29427,7 @@ Minimize2.defaultProps = {
 exports.default = Minimize2;
 
 /***/ }),
-/* 166 */
+/* 182 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29287,7 +29486,7 @@ Minimize.defaultProps = {
 exports.default = Minimize;
 
 /***/ }),
-/* 167 */
+/* 183 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29347,7 +29546,7 @@ MinusCircle.defaultProps = {
 exports.default = MinusCircle;
 
 /***/ }),
-/* 168 */
+/* 184 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29407,7 +29606,7 @@ MinusSquare.defaultProps = {
 exports.default = MinusSquare;
 
 /***/ }),
-/* 169 */
+/* 185 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29466,7 +29665,7 @@ Minus.defaultProps = {
 exports.default = Minus;
 
 /***/ }),
-/* 170 */
+/* 186 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29527,7 +29726,7 @@ Monitor.defaultProps = {
 exports.default = Monitor;
 
 /***/ }),
-/* 171 */
+/* 187 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29586,7 +29785,7 @@ Moon.defaultProps = {
 exports.default = Moon;
 
 /***/ }),
-/* 172 */
+/* 188 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29628,9 +29827,9 @@ var MoreHorizontal = function MoreHorizontal(props) {
       strokeLinecap: 'round',
       strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('circle', { cx: '12', cy: '12', r: '2' }),
-    _react2.default.createElement('circle', { cx: '20', cy: '12', r: '2' }),
-    _react2.default.createElement('circle', { cx: '4', cy: '12', r: '2' })
+    _react2.default.createElement('circle', { cx: '12', cy: '12', r: '1' }),
+    _react2.default.createElement('circle', { cx: '19', cy: '12', r: '1' }),
+    _react2.default.createElement('circle', { cx: '5', cy: '12', r: '1' })
   );
 };
 
@@ -29647,7 +29846,7 @@ MoreHorizontal.defaultProps = {
 exports.default = MoreHorizontal;
 
 /***/ }),
-/* 173 */
+/* 189 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29689,9 +29888,9 @@ var MoreVertical = function MoreVertical(props) {
       strokeLinecap: 'round',
       strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('circle', { cx: '12', cy: '12', r: '2' }),
-    _react2.default.createElement('circle', { cx: '12', cy: '4', r: '2' }),
-    _react2.default.createElement('circle', { cx: '12', cy: '20', r: '2' })
+    _react2.default.createElement('circle', { cx: '12', cy: '12', r: '1' }),
+    _react2.default.createElement('circle', { cx: '12', cy: '5', r: '1' }),
+    _react2.default.createElement('circle', { cx: '12', cy: '19', r: '1' })
   );
 };
 
@@ -29708,7 +29907,7 @@ MoreVertical.defaultProps = {
 exports.default = MoreVertical;
 
 /***/ }),
-/* 174 */
+/* 190 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29772,7 +29971,7 @@ Move.defaultProps = {
 exports.default = Move;
 
 /***/ }),
-/* 175 */
+/* 191 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29832,7 +30031,7 @@ Music.defaultProps = {
 exports.default = Music;
 
 /***/ }),
-/* 176 */
+/* 192 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29867,16 +30066,14 @@ var Navigation2 = function Navigation2(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
-    }, otherProps),
-    _react2.default.createElement('polygon', {
-      points: '12 2 19 21 12 17 5 21 12 2',
+      viewBox: '0 0 24 24',
       fill: 'none',
       stroke: color,
+      strokeWidth: '2',
       strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('polygon', { points: '12 2 19 21 12 17 5 21 12 2' })
   );
 };
 
@@ -29893,7 +30090,7 @@ Navigation2.defaultProps = {
 exports.default = Navigation2;
 
 /***/ }),
-/* 177 */
+/* 193 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29928,15 +30125,14 @@ var Navigation = function Navigation(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
-    }, otherProps),
-    _react2.default.createElement('polygon', {
-      points: '3 11 22 2 13 21 11 13 3 11',
+      viewBox: '0 0 24 24',
       fill: 'none',
       stroke: color,
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('polygon', { points: '3 11 22 2 13 21 11 13 3 11' })
   );
 };
 
@@ -29953,7 +30149,7 @@ Navigation.defaultProps = {
 exports.default = Navigation;
 
 /***/ }),
-/* 178 */
+/* 194 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30012,7 +30208,7 @@ Octagon.defaultProps = {
 exports.default = Octagon;
 
 /***/ }),
-/* 179 */
+/* 195 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30047,46 +30243,17 @@ var Package = function Package(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M12.89 1.45l8 4A2 2 0 0 1 22 7.24v9.53a2 2 0 0 1-1.11 1.79l-8 4a2 2 0 0 1-1.79 0l-8-4a2 2 0 0 1-1.1-1.8V7.24a2 2 0 0 1 1.11-1.79l8-4a2 2 0 0 1 1.78 0z',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '2.32 6.16 12 11 21.68 6.16',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '22.76',
-      x2: '12',
-      y2: '11',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '7',
-      y1: '3.5',
-      x2: '17',
-      y2: '8.5',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M12.89 1.45l8 4A2 2 0 0 1 22 7.24v9.53a2 2 0 0 1-1.11 1.79l-8 4a2 2 0 0 1-1.79 0l-8-4a2 2 0 0 1-1.1-1.8V7.24a2 2 0 0 1 1.11-1.79l8-4a2 2 0 0 1 1.78 0z' }),
+    _react2.default.createElement('polyline', { points: '2.32 6.16 12 11 21.68 6.16' }),
+    _react2.default.createElement('line', { x1: '12', y1: '22.76', x2: '12', y2: '11' }),
+    _react2.default.createElement('line', { x1: '7', y1: '3.5', x2: '17', y2: '8.5' })
   );
 };
 
@@ -30103,7 +30270,7 @@ Package.defaultProps = {
 exports.default = Package;
 
 /***/ }),
-/* 180 */
+/* 196 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30138,16 +30305,14 @@ var Paperclip = function Paperclip(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
-    }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M21.44,11.05l-9.19,9.19a6,6,0,0,1-8.49-8.49l9.19-9.19a4,4,0,0,1,5.66,5.66L9.41,17.41a2,2,0,0,1-2.83-2.83L15.07,6.1',
+      viewBox: '0 0 24 24',
       fill: 'none',
       stroke: color,
+      strokeWidth: '2',
       strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('path', { d: 'M21.44 11.05l-9.19 9.19a6 6 0 0 1-8.49-8.49l9.19-9.19a4 4 0 0 1 5.66 5.66l-9.2 9.19a2 2 0 0 1-2.83-2.83l8.49-8.48' })
   );
 };
 
@@ -30164,7 +30329,7 @@ Paperclip.defaultProps = {
 exports.default = Paperclip;
 
 /***/ }),
-/* 181 */
+/* 197 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30199,40 +30364,16 @@ var PauseCircle = function PauseCircle(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('circle', {
-      cx: '12',
-      cy: '12',
-      r: '10',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '10',
-      y1: '15',
-      x2: '10',
-      y2: '9',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '14',
-      y1: '15',
-      x2: '14',
-      y2: '9',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('circle', { cx: '12', cy: '12', r: '10' }),
+    _react2.default.createElement('line', { x1: '10', y1: '15', x2: '10', y2: '9' }),
+    _react2.default.createElement('line', { x1: '14', y1: '15', x2: '14', y2: '9' })
   );
 };
 
@@ -30249,7 +30390,7 @@ PauseCircle.defaultProps = {
 exports.default = PauseCircle;
 
 /***/ }),
-/* 182 */
+/* 198 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30284,30 +30425,15 @@ var Pause = function Pause(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('rect', {
-      x: '6',
-      y: '4',
-      width: '4',
-      height: '16',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('rect', {
-      x: '14',
-      y: '4',
-      width: '4',
-      height: '16',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('rect', { x: '6', y: '4', width: '4', height: '16' }),
+    _react2.default.createElement('rect', { x: '14', y: '4', width: '4', height: '16' })
   );
 };
 
@@ -30324,7 +30450,7 @@ Pause.defaultProps = {
 exports.default = Pause;
 
 /***/ }),
-/* 183 */
+/* 199 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30359,39 +30485,16 @@ var Percent = function Percent(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('line', {
-      x1: '19',
-      y1: '5',
-      x2: '5',
-      y2: '19',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('circle', {
-      cx: '6.5',
-      cy: '6.5',
-      r: '2.5',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('circle', {
-      cx: '17.5',
-      cy: '17.5',
-      r: '2.5',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('line', { x1: '19', y1: '5', x2: '5', y2: '19' }),
+    _react2.default.createElement('circle', { cx: '6.5', cy: '6.5', r: '2.5' }),
+    _react2.default.createElement('circle', { cx: '17.5', cy: '17.5', r: '2.5' })
   );
 };
 
@@ -30408,7 +30511,7 @@ Percent.defaultProps = {
 exports.default = Percent;
 
 /***/ }),
-/* 184 */
+/* 200 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30467,7 +30570,7 @@ PhoneCall.defaultProps = {
 exports.default = PhoneCall;
 
 /***/ }),
-/* 185 */
+/* 201 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30528,7 +30631,7 @@ PhoneForwarded.defaultProps = {
 exports.default = PhoneForwarded;
 
 /***/ }),
-/* 186 */
+/* 202 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30589,7 +30692,7 @@ PhoneIncoming.defaultProps = {
 exports.default = PhoneIncoming;
 
 /***/ }),
-/* 187 */
+/* 203 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30650,7 +30753,7 @@ PhoneMissed.defaultProps = {
 exports.default = PhoneMissed;
 
 /***/ }),
-/* 188 */
+/* 204 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30710,7 +30813,7 @@ PhoneOff.defaultProps = {
 exports.default = PhoneOff;
 
 /***/ }),
-/* 189 */
+/* 205 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30771,7 +30874,7 @@ PhoneOutgoing.defaultProps = {
 exports.default = PhoneOutgoing;
 
 /***/ }),
-/* 190 */
+/* 206 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30830,7 +30933,7 @@ Phone.defaultProps = {
 exports.default = Phone;
 
 /***/ }),
-/* 191 */
+/* 207 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30865,24 +30968,15 @@ var PieChart = function PieChart(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M21.21 15.89A10 10 0 1 1 8 2.83',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M22 12A10 10 0 0 0 12 2v10z',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M21.21 15.89A10 10 0 1 1 8 2.83' }),
+    _react2.default.createElement('path', { d: 'M22 12A10 10 0 0 0 12 2v10z' })
   );
 };
 
@@ -30899,7 +30993,7 @@ PieChart.defaultProps = {
 exports.default = PieChart;
 
 /***/ }),
-/* 192 */
+/* 208 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30934,26 +31028,15 @@ var PlayCircle = function PlayCircle(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('circle', {
-      cx: '12',
-      cy: '12',
-      r: '10',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polygon', {
-      points: '10 8 16 12 10 16 10 8',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('circle', { cx: '12', cy: '12', r: '10' }),
+    _react2.default.createElement('polygon', { points: '10 8 16 12 10 16 10 8' })
   );
 };
 
@@ -30970,7 +31053,7 @@ PlayCircle.defaultProps = {
 exports.default = PlayCircle;
 
 /***/ }),
-/* 193 */
+/* 209 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31029,7 +31112,7 @@ Play.defaultProps = {
 exports.default = Play;
 
 /***/ }),
-/* 194 */
+/* 210 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31090,7 +31173,7 @@ PlusCircle.defaultProps = {
 exports.default = PlusCircle;
 
 /***/ }),
-/* 195 */
+/* 211 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31151,7 +31234,7 @@ PlusSquare.defaultProps = {
 exports.default = PlusSquare;
 
 /***/ }),
-/* 196 */
+/* 212 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31211,7 +31294,7 @@ Plus.defaultProps = {
 exports.default = Plus;
 
 /***/ }),
-/* 197 */
+/* 213 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31271,7 +31354,7 @@ Pocket.defaultProps = {
 exports.default = Pocket;
 
 /***/ }),
-/* 198 */
+/* 214 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31331,7 +31414,7 @@ Power.defaultProps = {
 exports.default = Power;
 
 /***/ }),
-/* 199 */
+/* 215 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31392,7 +31475,7 @@ Printer.defaultProps = {
 exports.default = Printer;
 
 /***/ }),
-/* 200 */
+/* 216 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31452,7 +31535,7 @@ Radio.defaultProps = {
 exports.default = Radio;
 
 /***/ }),
-/* 201 */
+/* 217 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31513,7 +31596,7 @@ RefreshCcw.defaultProps = {
 exports.default = RefreshCcw;
 
 /***/ }),
-/* 202 */
+/* 218 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31574,7 +31657,7 @@ RefreshCw.defaultProps = {
 exports.default = RefreshCw;
 
 /***/ }),
-/* 203 */
+/* 219 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31609,40 +31692,17 @@ var Repeat = function Repeat(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', {
-      points: '17 1 21 5 17 9',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M3 11V9a4 4 0 0 1 4-4h14',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '7 23 3 19 7 15',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M21 13v2a4 4 0 0 1-4 4H3',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polyline', { points: '17 1 21 5 17 9' }),
+    _react2.default.createElement('path', { d: 'M3 11V9a4 4 0 0 1 4-4h14' }),
+    _react2.default.createElement('polyline', { points: '7 23 3 19 7 15' }),
+    _react2.default.createElement('path', { d: 'M21 13v2a4 4 0 0 1-4 4H3' })
   );
 };
 
@@ -31659,7 +31719,7 @@ Repeat.defaultProps = {
 exports.default = Repeat;
 
 /***/ }),
-/* 204 */
+/* 220 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31719,7 +31779,7 @@ Rewind.defaultProps = {
 exports.default = Rewind;
 
 /***/ }),
-/* 205 */
+/* 221 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31779,7 +31839,7 @@ RotateCcw.defaultProps = {
 exports.default = RotateCcw;
 
 /***/ }),
-/* 206 */
+/* 222 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31814,24 +31874,15 @@ var RotateCw = function RotateCw(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', {
-      points: '23 4 23 10 17 10',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M20.49 15a9 9 0 1 1-2.12-9.36L23 10',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polyline', { points: '23 4 23 10 17 10' }),
+    _react2.default.createElement('path', { d: 'M20.49 15a9 9 0 1 1-2.12-9.36L23 10' })
   );
 };
 
@@ -31848,7 +31899,68 @@ RotateCw.defaultProps = {
 exports.default = RotateCw;
 
 /***/ }),
-/* 207 */
+/* 223 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var Rss = function Rss(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('path', { d: 'M4 11a9 9 0 0 1 9 9' }),
+    _react2.default.createElement('path', { d: 'M4 4a16 16 0 0 1 16 16' }),
+    _react2.default.createElement('circle', { cx: '5', cy: '19', r: '1' })
+  );
+};
+
+Rss.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+Rss.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = Rss;
+
+/***/ }),
+/* 224 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31883,32 +31995,16 @@ var Save = function Save(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '17 21 17 13 7 13 7 21',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '7 3 7 8 15 8',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z' }),
+    _react2.default.createElement('polyline', { points: '17 21 17 13 7 13 7 21' }),
+    _react2.default.createElement('polyline', { points: '7 3 7 8 15 8' })
   );
 };
 
@@ -31925,7 +32021,7 @@ Save.defaultProps = {
 exports.default = Save;
 
 /***/ }),
-/* 208 */
+/* 225 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31960,61 +32056,18 @@ var Scissors = function Scissors(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('circle', {
-      cx: '6',
-      cy: '6',
-      r: '3',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('circle', {
-      cx: '6',
-      cy: '18',
-      r: '3',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '20',
-      y1: '4',
-      x2: '8.12',
-      y2: '15.88',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '14.47',
-      y1: '14.48',
-      x2: '20',
-      y2: '20',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '8.12',
-      y1: '8.12',
-      x2: '12',
-      y2: '12',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('circle', { cx: '6', cy: '6', r: '3' }),
+    _react2.default.createElement('circle', { cx: '6', cy: '18', r: '3' }),
+    _react2.default.createElement('line', { x1: '20', y1: '4', x2: '8.12', y2: '15.88' }),
+    _react2.default.createElement('line', { x1: '14.47', y1: '14.48', x2: '20', y2: '20' }),
+    _react2.default.createElement('line', { x1: '8.12', y1: '8.12', x2: '12', y2: '12' })
   );
 };
 
@@ -32031,7 +32084,7 @@ Scissors.defaultProps = {
 exports.default = Scissors;
 
 /***/ }),
-/* 209 */
+/* 226 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32073,8 +32126,8 @@ var Search = function Search(props) {
       strokeLinecap: 'round',
       strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('circle', { cx: '10.5', cy: '10.5', r: '7.5' }),
-    _react2.default.createElement('line', { x1: '21', y1: '21', x2: '15.8', y2: '15.8' })
+    _react2.default.createElement('circle', { cx: '11', cy: '11', r: '8' }),
+    _react2.default.createElement('line', { x1: '21', y1: '21', x2: '16.65', y2: '16.65' })
   );
 };
 
@@ -32091,7 +32144,67 @@ Search.defaultProps = {
 exports.default = Search;
 
 /***/ }),
-/* 210 */
+/* 227 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var Send = function Send(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('line', { x1: '22', y1: '2', x2: '11', y2: '13' }),
+    _react2.default.createElement('polygon', { points: '22 2 15 22 11 13 2 9 22 2' })
+  );
+};
+
+Send.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+Send.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = Send;
+
+/***/ }),
+/* 228 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32126,56 +32239,17 @@ var Server = function Server(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('rect', {
-      x: '2',
-      y: '2',
-      width: '20',
-      height: '8',
-      rx: '2',
-      ry: '2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('rect', {
-      x: '2',
-      y: '14',
-      width: '20',
-      height: '8',
-      rx: '2',
-      ry: '2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '6',
-      y1: '6',
-      x2: '6',
-      y2: '6',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '6',
-      y1: '18',
-      x2: '6',
-      y2: '18',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('rect', { x: '2', y: '2', width: '20', height: '8', rx: '2', ry: '2' }),
+    _react2.default.createElement('rect', { x: '2', y: '14', width: '20', height: '8', rx: '2', ry: '2' }),
+    _react2.default.createElement('line', { x1: '6', y1: '6', x2: '6', y2: '6' }),
+    _react2.default.createElement('line', { x1: '6', y1: '18', x2: '6', y2: '18' })
   );
 };
 
@@ -32192,7 +32266,7 @@ Server.defaultProps = {
 exports.default = Server;
 
 /***/ }),
-/* 211 */
+/* 229 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32227,25 +32301,15 @@ var Settings = function Settings(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
-    }, otherProps),
-    _react2.default.createElement('circle', {
-      cx: '12',
-      cy: '12',
-      r: '3',
+      viewBox: '0 0 24 24',
       fill: 'none',
       stroke: color,
+      strokeWidth: '2',
       strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z',
-      fill: 'none',
-      stroke: color,
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    })
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('circle', { cx: '12', cy: '12', r: '3' }),
+    _react2.default.createElement('path', { d: 'M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z' })
   );
 };
 
@@ -32262,7 +32326,7 @@ Settings.defaultProps = {
 exports.default = Settings;
 
 /***/ }),
-/* 212 */
+/* 230 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32325,7 +32389,7 @@ Share2.defaultProps = {
 exports.default = Share2;
 
 /***/ }),
-/* 213 */
+/* 231 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32360,35 +32424,16 @@ var Share = function Share(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '16 6 12 2 8 6',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '2',
-      x2: '12',
-      y2: '15',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8' }),
+    _react2.default.createElement('polyline', { points: '16 6 12 2 8 6' }),
+    _react2.default.createElement('line', { x1: '12', y1: '2', x2: '12', y2: '15' })
   );
 };
 
@@ -32405,7 +32450,68 @@ Share.defaultProps = {
 exports.default = Share;
 
 /***/ }),
-/* 214 */
+/* 232 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var ShieldOff = function ShieldOff(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('path', { d: 'M19.69 14a6.9 6.9 0 0 0 .31-2V5l-8-3-3.16 1.18' }),
+    _react2.default.createElement('path', { d: 'M4.73 4.73L4 5v7c0 6 8 10 8 10a20.29 20.29 0 0 0 5.62-4.38' }),
+    _react2.default.createElement('line', { x1: '1', y1: '1', x2: '23', y2: '23' })
+  );
+};
+
+ShieldOff.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+ShieldOff.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = ShieldOff;
+
+/***/ }),
+/* 233 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32440,16 +32546,14 @@ var Shield = function Shield(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
-    }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M12 22s8-4 8-10V4l-8-2-8 2v8c0 6 8 10 8 10z',
+      viewBox: '0 0 24 24',
       fill: 'none',
       stroke: color,
+      strokeWidth: '2',
       strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('path', { d: 'M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z' })
   );
 };
 
@@ -32466,7 +32570,68 @@ Shield.defaultProps = {
 exports.default = Shield;
 
 /***/ }),
-/* 215 */
+/* 234 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var ShoppingBag = function ShoppingBag(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('path', { d: 'M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z' }),
+    _react2.default.createElement('line', { x1: '3', y1: '6', x2: '21', y2: '6' }),
+    _react2.default.createElement('path', { d: 'M16 10a4 4 0 0 1-8 0' })
+  );
+};
+
+ShoppingBag.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+ShoppingBag.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = ShoppingBag;
+
+/***/ }),
+/* 235 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32501,36 +32666,16 @@ var ShoppingCart = function ShoppingCart(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('circle', {
-      cx: '8',
-      cy: '21',
-      r: '2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('circle', {
-      cx: '20',
-      cy: '21',
-      r: '2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M5.67,6H23l-1.68,8.39a2,2,0,0,1-2,1.61H8.75a2,2,0,0,1-2-1.74L5.23,2.74A2,2,0,0,0,3.25,1H1',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('circle', { cx: '9', cy: '21', r: '1' }),
+    _react2.default.createElement('circle', { cx: '20', cy: '21', r: '1' }),
+    _react2.default.createElement('path', { d: 'M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6' })
   );
 };
 
@@ -32547,7 +32692,7 @@ ShoppingCart.defaultProps = {
 exports.default = ShoppingCart;
 
 /***/ }),
-/* 216 */
+/* 236 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32582,57 +32727,18 @@ var Shuffle = function Shuffle(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', {
-      points: '16 3 21 3 21 8',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '4',
-      y1: '20',
-      x2: '21',
-      y2: '3',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '21 16 21 21 16 21',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '15',
-      y1: '15',
-      x2: '21',
-      y2: '21',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '4',
-      y1: '4',
-      x2: '9',
-      y2: '9',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polyline', { points: '16 3 21 3 21 8' }),
+    _react2.default.createElement('line', { x1: '4', y1: '20', x2: '21', y2: '3' }),
+    _react2.default.createElement('polyline', { points: '21 16 21 21 16 21' }),
+    _react2.default.createElement('line', { x1: '15', y1: '15', x2: '21', y2: '21' }),
+    _react2.default.createElement('line', { x1: '4', y1: '4', x2: '9', y2: '9' })
   );
 };
 
@@ -32649,7 +32755,7 @@ Shuffle.defaultProps = {
 exports.default = Shuffle;
 
 /***/ }),
-/* 217 */
+/* 237 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32684,32 +32790,15 @@ var Sidebar = function Sidebar(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('rect', {
-      x: '3',
-      y: '3',
-      width: '18',
-      height: '18',
-      rx: '2',
-      ry: '2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '9',
-      y1: '3',
-      x2: '9',
-      y2: '21',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('rect', { x: '3', y: '3', width: '18', height: '18', rx: '2', ry: '2' }),
+    _react2.default.createElement('line', { x1: '9', y1: '3', x2: '9', y2: '21' })
   );
 };
 
@@ -32726,7 +32815,7 @@ Sidebar.defaultProps = {
 exports.default = Sidebar;
 
 /***/ }),
-/* 218 */
+/* 238 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32761,27 +32850,15 @@ var SkipBack = function SkipBack(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polygon', {
-      points: '19 20 9 12 19 4 19 20',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '5',
-      y1: '19',
-      x2: '5',
-      y2: '5',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polygon', { points: '19 20 9 12 19 4 19 20' }),
+    _react2.default.createElement('line', { x1: '5', y1: '19', x2: '5', y2: '5' })
   );
 };
 
@@ -32798,7 +32875,7 @@ SkipBack.defaultProps = {
 exports.default = SkipBack;
 
 /***/ }),
-/* 219 */
+/* 239 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32833,27 +32910,15 @@ var SkipForward = function SkipForward(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polygon', {
-      points: '5 4 15 12 5 20 5 4',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '19',
-      y1: '5',
-      x2: '19',
-      y2: '19',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polygon', { points: '5 4 15 12 5 20 5 4' }),
+    _react2.default.createElement('line', { x1: '19', y1: '5', x2: '19', y2: '19' })
   );
 };
 
@@ -32870,7 +32935,7 @@ SkipForward.defaultProps = {
 exports.default = SkipForward;
 
 /***/ }),
-/* 220 */
+/* 240 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32905,59 +32970,18 @@ var Slack = function Slack(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M22.08 9C19.81 1.41 16.54-.35 9 1.92S-.35 7.46 1.92 15 7.46 24.35 15 22.08 24.35 16.54 22.08 9z',
-      fill: 'none',
-      stroke: color,
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12.57',
-      y1: '5.99',
-      x2: '16.15',
-      y2: '16.39',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '7.85',
-      y1: '7.61',
-      x2: '11.43',
-      y2: '18.01',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '16.39',
-      y1: '7.85',
-      x2: '5.99',
-      y2: '11.43',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '18.01',
-      y1: '12.57',
-      x2: '7.61',
-      y2: '16.15',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M22.08 9C19.81 1.41 16.54-.35 9 1.92S-.35 7.46 1.92 15 7.46 24.35 15 22.08 24.35 16.54 22.08 9z' }),
+    _react2.default.createElement('line', { x1: '12.57', y1: '5.99', x2: '16.15', y2: '16.39' }),
+    _react2.default.createElement('line', { x1: '7.85', y1: '7.61', x2: '11.43', y2: '18.01' }),
+    _react2.default.createElement('line', { x1: '16.39', y1: '7.85', x2: '5.99', y2: '11.43' }),
+    _react2.default.createElement('line', { x1: '18.01', y1: '12.57', x2: '7.61', y2: '16.15' })
   );
 };
 
@@ -32974,7 +32998,7 @@ Slack.defaultProps = {
 exports.default = Slack;
 
 /***/ }),
-/* 221 */
+/* 241 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33034,7 +33058,7 @@ Slash.defaultProps = {
 exports.default = Slash;
 
 /***/ }),
-/* 222 */
+/* 242 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33069,107 +33093,22 @@ var Sliders = function Sliders(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('line', {
-      x1: '4',
-      y1: '21',
-      x2: '4',
-      y2: '14',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '4',
-      y1: '10',
-      x2: '4',
-      y2: '3',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '21',
-      x2: '12',
-      y2: '12',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '8',
-      x2: '12',
-      y2: '3',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '20',
-      y1: '21',
-      x2: '20',
-      y2: '16',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '20',
-      y1: '12',
-      x2: '20',
-      y2: '3',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '1',
-      y1: '14',
-      x2: '7',
-      y2: '14',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '9',
-      y1: '8',
-      x2: '15',
-      y2: '8',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '17',
-      y1: '16',
-      x2: '23',
-      y2: '16',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('line', { x1: '4', y1: '21', x2: '4', y2: '14' }),
+    _react2.default.createElement('line', { x1: '4', y1: '10', x2: '4', y2: '3' }),
+    _react2.default.createElement('line', { x1: '12', y1: '21', x2: '12', y2: '12' }),
+    _react2.default.createElement('line', { x1: '12', y1: '8', x2: '12', y2: '3' }),
+    _react2.default.createElement('line', { x1: '20', y1: '21', x2: '20', y2: '16' }),
+    _react2.default.createElement('line', { x1: '20', y1: '12', x2: '20', y2: '3' }),
+    _react2.default.createElement('line', { x1: '1', y1: '14', x2: '7', y2: '14' }),
+    _react2.default.createElement('line', { x1: '9', y1: '8', x2: '15', y2: '8' }),
+    _react2.default.createElement('line', { x1: '17', y1: '16', x2: '23', y2: '16' })
   );
 };
 
@@ -33186,7 +33125,7 @@ Sliders.defaultProps = {
 exports.default = Sliders;
 
 /***/ }),
-/* 223 */
+/* 243 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33221,32 +33160,15 @@ var Smartphone = function Smartphone(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('rect', {
-      x: '5',
-      y: '2',
-      width: '14',
-      height: '20',
-      rx: '2',
-      ry: '2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '18',
-      x2: '12',
-      y2: '18',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('rect', { x: '5', y: '2', width: '14', height: '20', rx: '2', ry: '2' }),
+    _react2.default.createElement('line', { x1: '12', y1: '18', x2: '12', y2: '18' })
   );
 };
 
@@ -33263,7 +33185,7 @@ Smartphone.defaultProps = {
 exports.default = Smartphone;
 
 /***/ }),
-/* 224 */
+/* 244 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33298,42 +33220,16 @@ var Speaker = function Speaker(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('rect', {
-      x: '4',
-      y: '2',
-      width: '16',
-      height: '20',
-      rx: '2',
-      ry: '2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('circle', {
-      cx: '12',
-      cy: '14',
-      r: '4',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '6',
-      x2: '12',
-      y2: '6',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('rect', { x: '4', y: '2', width: '16', height: '20', rx: '2', ry: '2' }),
+    _react2.default.createElement('circle', { cx: '12', cy: '14', r: '4' }),
+    _react2.default.createElement('line', { x1: '12', y1: '6', x2: '12', y2: '6' })
   );
 };
 
@@ -33350,7 +33246,7 @@ Speaker.defaultProps = {
 exports.default = Speaker;
 
 /***/ }),
-/* 225 */
+/* 245 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33409,7 +33305,7 @@ Square.defaultProps = {
 exports.default = Square;
 
 /***/ }),
-/* 226 */
+/* 246 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33468,7 +33364,7 @@ Star.defaultProps = {
 exports.default = Star;
 
 /***/ }),
-/* 227 */
+/* 247 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33503,29 +33399,15 @@ var StopCircle = function StopCircle(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('circle', {
-      cx: '12',
-      cy: '12',
-      r: '10',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('rect', {
-      x: '9',
-      y: '9',
-      width: '6',
-      height: '6',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('circle', { cx: '12', cy: '12', r: '10' }),
+    _react2.default.createElement('rect', { x: '9', y: '9', width: '6', height: '6' })
   );
 };
 
@@ -33542,7 +33424,7 @@ StopCircle.defaultProps = {
 exports.default = StopCircle;
 
 /***/ }),
-/* 228 */
+/* 248 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33609,7 +33491,7 @@ Sun.defaultProps = {
 exports.default = Sun;
 
 /***/ }),
-/* 229 */
+/* 249 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33675,7 +33557,7 @@ Sunrise.defaultProps = {
 exports.default = Sunrise;
 
 /***/ }),
-/* 230 */
+/* 250 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33741,7 +33623,7 @@ Sunset.defaultProps = {
 exports.default = Sunset;
 
 /***/ }),
-/* 231 */
+/* 251 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33776,7 +33658,12 @@ var Tablet = function Tablet(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
     _react2.default.createElement('rect', {
       x: '4',
@@ -33785,24 +33672,9 @@ var Tablet = function Tablet(props) {
       height: '20',
       rx: '2',
       ry: '2',
-      transform: 'rotate(180 12 12)',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
+      transform: 'rotate(180 12 12)'
     }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '18',
-      x2: '12',
-      y2: '18',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('line', { x1: '12', y1: '18', x2: '12', y2: '18' })
   );
 };
 
@@ -33819,7 +33691,7 @@ Tablet.defaultProps = {
 exports.default = Tablet;
 
 /***/ }),
-/* 232 */
+/* 252 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33879,7 +33751,7 @@ Tag.defaultProps = {
 exports.default = Tag;
 
 /***/ }),
-/* 233 */
+/* 253 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33940,7 +33812,67 @@ Target.defaultProps = {
 exports.default = Target;
 
 /***/ }),
-/* 234 */
+/* 254 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var Terminal = function Terminal(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('polyline', { points: '4 17 10 11 4 5' }),
+    _react2.default.createElement('line', { x1: '12', y1: '19', x2: '20', y2: '19' })
+  );
+};
+
+Terminal.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+Terminal.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = Terminal;
+
+/***/ }),
+/* 255 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33999,7 +33931,7 @@ Thermometer.defaultProps = {
 exports.default = Thermometer;
 
 /***/ }),
-/* 235 */
+/* 256 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34058,7 +33990,7 @@ ThumbsDown.defaultProps = {
 exports.default = ThumbsDown;
 
 /***/ }),
-/* 236 */
+/* 257 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34117,7 +34049,7 @@ ThumbsUp.defaultProps = {
 exports.default = ThumbsUp;
 
 /***/ }),
-/* 237 */
+/* 258 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34177,7 +34109,7 @@ ToggleLeft.defaultProps = {
 exports.default = ToggleLeft;
 
 /***/ }),
-/* 238 */
+/* 259 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34237,7 +34169,7 @@ ToggleRight.defaultProps = {
 exports.default = ToggleRight;
 
 /***/ }),
-/* 239 */
+/* 260 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34299,7 +34231,7 @@ Trash2.defaultProps = {
 exports.default = Trash2;
 
 /***/ }),
-/* 240 */
+/* 261 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34359,7 +34291,7 @@ Trash.defaultProps = {
 exports.default = Trash;
 
 /***/ }),
-/* 241 */
+/* 262 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34394,24 +34326,15 @@ var TrendingDown = function TrendingDown(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', {
-      points: '23 18 13.5 8.5 8.5 13.5 1 6',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '17 18 23 18 23 12',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polyline', { points: '23 18 13.5 8.5 8.5 13.5 1 6' }),
+    _react2.default.createElement('polyline', { points: '17 18 23 18 23 12' })
   );
 };
 
@@ -34428,7 +34351,7 @@ TrendingDown.defaultProps = {
 exports.default = TrendingDown;
 
 /***/ }),
-/* 242 */
+/* 263 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34463,24 +34386,15 @@ var TrendingUp = function TrendingUp(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', {
-      points: '23 6 13.5 15.5 8.5 10.5 1 18',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '17 6 23 6 23 12',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polyline', { points: '23 6 13.5 15.5 8.5 10.5 1 18' }),
+    _react2.default.createElement('polyline', { points: '17 6 23 6 23 12' })
   );
 };
 
@@ -34497,7 +34411,7 @@ TrendingUp.defaultProps = {
 exports.default = TrendingUp;
 
 /***/ }),
-/* 243 */
+/* 264 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34556,7 +34470,69 @@ Triangle.defaultProps = {
 exports.default = Triangle;
 
 /***/ }),
-/* 244 */
+/* 265 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var Truck = function Truck(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('rect', { x: '1', y: '3', width: '15', height: '13' }),
+    _react2.default.createElement('polygon', { points: '16 8 20 8 23 11 23 16 16 16 16 8' }),
+    _react2.default.createElement('circle', { cx: '5.5', cy: '18.5', r: '2.5' }),
+    _react2.default.createElement('circle', { cx: '18.5', cy: '18.5', r: '2.5' })
+  );
+};
+
+Truck.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+Truck.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = Truck;
+
+/***/ }),
+/* 266 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34591,29 +34567,15 @@ var Tv = function Tv(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('rect', {
-      x: '2',
-      y: '7',
-      width: '20',
-      height: '15',
-      rx: '2',
-      ry: '2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '17 2 12 7 7 2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('rect', { x: '2', y: '7', width: '20', height: '15', rx: '2', ry: '2' }),
+    _react2.default.createElement('polyline', { points: '17 2 12 7 7 2' })
   );
 };
 
@@ -34630,7 +34592,7 @@ Tv.defaultProps = {
 exports.default = Tv;
 
 /***/ }),
-/* 245 */
+/* 267 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34665,16 +34627,14 @@ var Twitter = function Twitter(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
-    }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z',
+      viewBox: '0 0 24 24',
       fill: 'none',
       stroke: color,
+      strokeWidth: '2',
       strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('path', { d: 'M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z' })
   );
 };
 
@@ -34691,7 +34651,7 @@ Twitter.defaultProps = {
 exports.default = Twitter;
 
 /***/ }),
-/* 246 */
+/* 268 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34726,38 +34686,16 @@ var Type = function Type(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polyline', {
-      points: '4 7 4 4 20 4 20 7',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '9',
-      y1: '20',
-      x2: '15',
-      y2: '20',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '4',
-      x2: '12',
-      y2: '20',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polyline', { points: '4 7 4 4 20 4 20 7' }),
+    _react2.default.createElement('line', { x1: '9', y1: '20', x2: '15', y2: '20' }),
+    _react2.default.createElement('line', { x1: '12', y1: '4', x2: '12', y2: '20' })
   );
 };
 
@@ -34774,7 +34712,7 @@ Type.defaultProps = {
 exports.default = Type;
 
 /***/ }),
-/* 247 */
+/* 269 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34833,7 +34771,7 @@ Umbrella.defaultProps = {
 exports.default = Umbrella;
 
 /***/ }),
-/* 248 */
+/* 270 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34868,27 +34806,15 @@ var Underline = function Underline(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M6,3v7a6,6,0,0,0,6,6h0a6,6,0,0,0,6-6V3',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '4',
-      y1: '21',
-      x2: '20',
-      y2: '21',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M6 3v7a6 6 0 0 0 6 6 6 6 0 0 0 6-6V3' }),
+    _react2.default.createElement('line', { x1: '4', y1: '21', x2: '20', y2: '21' })
   );
 };
 
@@ -34905,7 +34831,7 @@ Underline.defaultProps = {
 exports.default = Underline;
 
 /***/ }),
-/* 249 */
+/* 271 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34965,7 +34891,7 @@ Unlock.defaultProps = {
 exports.default = Unlock;
 
 /***/ }),
-/* 250 */
+/* 272 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35027,7 +34953,7 @@ UploadCloud.defaultProps = {
 exports.default = UploadCloud;
 
 /***/ }),
-/* 251 */
+/* 273 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35069,9 +34995,9 @@ var Upload = function Upload(props) {
       strokeLinecap: 'round',
       strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', { d: 'M3 17v3a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-3' }),
-    _react2.default.createElement('polyline', { points: '16 6 12 2 8 6' }),
-    _react2.default.createElement('line', { x1: '12', y1: '2', x2: '12', y2: '16' })
+    _react2.default.createElement('path', { d: 'M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4' }),
+    _react2.default.createElement('polyline', { points: '17 8 12 3 7 8' }),
+    _react2.default.createElement('line', { x1: '12', y1: '3', x2: '12', y2: '15' })
   );
 };
 
@@ -35088,7 +35014,7 @@ Upload.defaultProps = {
 exports.default = Upload;
 
 /***/ }),
-/* 252 */
+/* 274 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35123,34 +35049,16 @@ var UserCheck = function UserCheck(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('circle', {
-      cx: '8.5',
-      cy: '7',
-      r: '4',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('polyline', {
-      points: '17 11 19 13 23 9',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2' }),
+    _react2.default.createElement('circle', { cx: '8.5', cy: '7', r: '4' }),
+    _react2.default.createElement('polyline', { points: '17 11 19 13 23 9' })
   );
 };
 
@@ -35167,7 +35075,7 @@ UserCheck.defaultProps = {
 exports.default = UserCheck;
 
 /***/ }),
-/* 253 */
+/* 275 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35202,37 +35110,16 @@ var UserMinus = function UserMinus(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('circle', {
-      cx: '8.5',
-      cy: '7',
-      r: '4',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '23',
-      y1: '11',
-      x2: '17',
-      y2: '11',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2' }),
+    _react2.default.createElement('circle', { cx: '8.5', cy: '7', r: '4' }),
+    _react2.default.createElement('line', { x1: '23', y1: '11', x2: '17', y2: '11' })
   );
 };
 
@@ -35249,7 +35136,7 @@ UserMinus.defaultProps = {
 exports.default = UserMinus;
 
 /***/ }),
-/* 254 */
+/* 276 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35284,48 +35171,17 @@ var UserPlus = function UserPlus(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('circle', {
-      cx: '8.5',
-      cy: '7',
-      r: '4',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '20',
-      y1: '8',
-      x2: '20',
-      y2: '14',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '23',
-      y1: '11',
-      x2: '17',
-      y2: '11',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2' }),
+    _react2.default.createElement('circle', { cx: '8.5', cy: '7', r: '4' }),
+    _react2.default.createElement('line', { x1: '20', y1: '8', x2: '20', y2: '14' }),
+    _react2.default.createElement('line', { x1: '23', y1: '11', x2: '17', y2: '11' })
   );
 };
 
@@ -35342,7 +35198,7 @@ UserPlus.defaultProps = {
 exports.default = UserPlus;
 
 /***/ }),
-/* 255 */
+/* 277 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35377,48 +35233,17 @@ var UserX = function UserX(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('circle', {
-      cx: '8.5',
-      cy: '7',
-      r: '4',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '18',
-      y1: '8',
-      x2: '23',
-      y2: '13',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '23',
-      y1: '8',
-      x2: '18',
-      y2: '13',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2' }),
+    _react2.default.createElement('circle', { cx: '8.5', cy: '7', r: '4' }),
+    _react2.default.createElement('line', { x1: '18', y1: '8', x2: '23', y2: '13' }),
+    _react2.default.createElement('line', { x1: '23', y1: '8', x2: '18', y2: '13' })
   );
 };
 
@@ -35435,7 +35260,7 @@ UserX.defaultProps = {
 exports.default = UserX;
 
 /***/ }),
-/* 256 */
+/* 278 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35470,26 +35295,15 @@ var User = function User(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('circle', {
-      cx: '12',
-      cy: '7',
-      r: '4',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2' }),
+    _react2.default.createElement('circle', { cx: '12', cy: '7', r: '4' })
   );
 };
 
@@ -35506,7 +35320,7 @@ User.defaultProps = {
 exports.default = User;
 
 /***/ }),
-/* 257 */
+/* 279 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35541,42 +35355,17 @@ var Users = function Users(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('circle', {
-      cx: '9',
-      cy: '7',
-      r: '4',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M23 21v-2a4 4 0 0 0-3-3.87',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M16 3.13a4 4 0 0 1 0 7.75',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2' }),
+    _react2.default.createElement('circle', { cx: '9', cy: '7', r: '4' }),
+    _react2.default.createElement('path', { d: 'M23 21v-2a4 4 0 0 0-3-3.87' }),
+    _react2.default.createElement('path', { d: 'M16 3.13a4 4 0 0 1 0 7.75' })
   );
 };
 
@@ -35593,7 +35382,7 @@ Users.defaultProps = {
 exports.default = Users;
 
 /***/ }),
-/* 258 */
+/* 280 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35653,7 +35442,7 @@ VideoOff.defaultProps = {
 exports.default = VideoOff;
 
 /***/ }),
-/* 259 */
+/* 281 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35713,7 +35502,7 @@ Video.defaultProps = {
 exports.default = Video;
 
 /***/ }),
-/* 260 */
+/* 282 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35748,36 +35537,16 @@ var Voicemail = function Voicemail(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('circle', {
-      cx: '5.5',
-      cy: '11.5',
-      r: '4.5',
-      fill: 'none',
-      stroke: color,
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('circle', {
-      cx: '18.5',
-      cy: '11.5',
-      r: '4.5',
-      fill: 'none',
-      stroke: color,
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '5.5',
-      y1: '16',
-      x2: '18.5',
-      y2: '16',
-      fill: 'none',
-      stroke: color,
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('circle', { cx: '5.5', cy: '11.5', r: '4.5' }),
+    _react2.default.createElement('circle', { cx: '18.5', cy: '11.5', r: '4.5' }),
+    _react2.default.createElement('line', { x1: '5.5', y1: '16', x2: '18.5', y2: '16' })
   );
 };
 
@@ -35794,7 +35563,7 @@ Voicemail.defaultProps = {
 exports.default = Voicemail;
 
 /***/ }),
-/* 261 */
+/* 283 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35829,24 +35598,15 @@ var Volume1 = function Volume1(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polygon', {
-      points: '11 5 6 9 2 9 2 15 6 15 11 19 11 5',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M15.54 8.46a5 5 0 0 1 0 7.07',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polygon', { points: '11 5 6 9 2 9 2 15 6 15 11 19 11 5' }),
+    _react2.default.createElement('path', { d: 'M15.54 8.46a5 5 0 0 1 0 7.07' })
   );
 };
 
@@ -35863,7 +35623,7 @@ Volume1.defaultProps = {
 exports.default = Volume1;
 
 /***/ }),
-/* 262 */
+/* 284 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35898,24 +35658,15 @@ var Volume2 = function Volume2(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polygon', {
-      points: '11 5 6 9 2 9 2 15 6 15 11 19 11 5',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polygon', { points: '11 5 6 9 2 9 2 15 6 15 11 19 11 5' }),
+    _react2.default.createElement('path', { d: 'M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07' })
   );
 };
 
@@ -35932,7 +35683,7 @@ Volume2.defaultProps = {
 exports.default = Volume2;
 
 /***/ }),
-/* 263 */
+/* 285 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35967,38 +35718,16 @@ var VolumeX = function VolumeX(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('polygon', {
-      points: '11 5 6 9 2 9 2 15 6 15 11 19 11 5',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '23',
-      y1: '9',
-      x2: '17',
-      y2: '15',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '17',
-      y1: '9',
-      x2: '23',
-      y2: '15',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('polygon', { points: '11 5 6 9 2 9 2 15 6 15 11 19 11 5' }),
+    _react2.default.createElement('line', { x1: '23', y1: '9', x2: '17', y2: '15' }),
+    _react2.default.createElement('line', { x1: '17', y1: '9', x2: '23', y2: '15' })
   );
 };
 
@@ -36015,7 +35744,7 @@ VolumeX.defaultProps = {
 exports.default = VolumeX;
 
 /***/ }),
-/* 264 */
+/* 286 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -36050,16 +35779,14 @@ var Volume = function Volume(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
-    }, otherProps),
-    _react2.default.createElement('polygon', {
-      points: '11 5 6 9 2 9 2 15 6 15 11 19 11 5',
+      viewBox: '0 0 24 24',
       fill: 'none',
       stroke: color,
+      strokeWidth: '2',
       strokeLinecap: 'round',
-      strokeLinejoin: 'round',
-      strokeWidth: '2'
-    })
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('polygon', { points: '11 5 6 9 2 9 2 15 6 15 11 19 11 5' })
   );
 };
 
@@ -36076,7 +35803,7 @@ Volume.defaultProps = {
 exports.default = Volume;
 
 /***/ }),
-/* 265 */
+/* 287 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -36137,7 +35864,7 @@ Watch.defaultProps = {
 exports.default = Watch;
 
 /***/ }),
-/* 266 */
+/* 288 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -36172,70 +35899,20 @@ var WifiOff = function WifiOff(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('line', {
-      x1: '1',
-      y1: '1',
-      x2: '23',
-      y2: '23',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M16.72,11.06A10.94,10.94,0,0,1,19,12.55',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M5,12.55a10.94,10.94,0,0,1,5.17-2.39',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M10.71,5.05A16,16,0,0,1,22.58,9',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M1.42,9a15.91,15.91,0,0,1,4.7-2.88',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M8.53,16.11a6,6,0,0,1,6.95,0',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '20',
-      x2: '12',
-      y2: '20',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('line', { x1: '1', y1: '1', x2: '23', y2: '23' }),
+    _react2.default.createElement('path', { d: 'M16.72 11.06A10.94 10.94 0 0 1 19 12.55' }),
+    _react2.default.createElement('path', { d: 'M5 12.55a10.94 10.94 0 0 1 5.17-2.39' }),
+    _react2.default.createElement('path', { d: 'M10.71 5.05A16 16 0 0 1 22.58 9' }),
+    _react2.default.createElement('path', { d: 'M1.42 9a15.91 15.91 0 0 1 4.7-2.88' }),
+    _react2.default.createElement('path', { d: 'M8.53 16.11a6 6 0 0 1 6.95 0' }),
+    _react2.default.createElement('line', { x1: '12', y1: '20', x2: '12', y2: '20' })
   );
 };
 
@@ -36252,7 +35929,7 @@ WifiOff.defaultProps = {
 exports.default = WifiOff;
 
 /***/ }),
-/* 267 */
+/* 289 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -36287,43 +35964,17 @@ var Wifi = function Wifi(props) {
       xmlns: 'http://www.w3.org/2000/svg',
       width: size,
       height: size,
-      viewBox: '0 0 24 24'
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
     }, otherProps),
-    _react2.default.createElement('path', {
-      d: 'M5,12.55a11,11,0,0,1,14.08,0',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M1.42,9A16,16,0,0,1,22.58,9',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('path', {
-      d: 'M8.53,16.11a6,6,0,0,1,6.95,0',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    }),
-    _react2.default.createElement('line', {
-      x1: '12',
-      y1: '20',
-      x2: '12',
-      y2: '20',
-      fill: 'none',
-      stroke: color,
-      strokeLinecap: 'round',
-      strokeMiterlimit: '10',
-      strokeWidth: '2'
-    })
+    _react2.default.createElement('path', { d: 'M5 12.55a11 11 0 0 1 14.08 0' }),
+    _react2.default.createElement('path', { d: 'M1.42 9a16 16 0 0 1 21.16 0' }),
+    _react2.default.createElement('path', { d: 'M8.53 16.11a6 6 0 0 1 6.95 0' }),
+    _react2.default.createElement('line', { x1: '12', y1: '20', x2: '12', y2: '20' })
   );
 };
 
@@ -36340,7 +35991,7 @@ Wifi.defaultProps = {
 exports.default = Wifi;
 
 /***/ }),
-/* 268 */
+/* 290 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -36399,7 +36050,7 @@ Wind.defaultProps = {
 exports.default = Wind;
 
 /***/ }),
-/* 269 */
+/* 291 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -36460,7 +36111,7 @@ XCircle.defaultProps = {
 exports.default = XCircle;
 
 /***/ }),
-/* 270 */
+/* 292 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -36521,7 +36172,7 @@ XSquare.defaultProps = {
 exports.default = XSquare;
 
 /***/ }),
-/* 271 */
+/* 293 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -36581,7 +36232,69 @@ X.defaultProps = {
 exports.default = X;
 
 /***/ }),
-/* 272 */
+/* 294 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _propTypes = __webpack_require__(1);
+
+var _propTypes2 = _interopRequireDefault(_propTypes);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
+
+var ZapOff = function ZapOff(props) {
+  var color = props.color,
+      size = props.size,
+      otherProps = _objectWithoutProperties(props, ['color', 'size']);
+
+  return _react2.default.createElement(
+    'svg',
+    _extends({
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: size,
+      height: size,
+      viewBox: '0 0 24 24',
+      fill: 'none',
+      stroke: color,
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round'
+    }, otherProps),
+    _react2.default.createElement('polyline', { points: '12.41 6.75 13 2 10.57 4.92' }),
+    _react2.default.createElement('polyline', { points: '18.57 12.91 21 10 15.66 10' }),
+    _react2.default.createElement('polyline', { points: '8 8 3 14 12 14 11 22 16 16' }),
+    _react2.default.createElement('line', { x1: '1', y1: '1', x2: '23', y2: '23' })
+  );
+};
+
+ZapOff.propTypes = {
+  color: _propTypes2.default.string,
+  size: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number])
+};
+
+ZapOff.defaultProps = {
+  color: 'currentColor',
+  size: '24'
+};
+
+exports.default = ZapOff;
+
+/***/ }),
+/* 295 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -36640,7 +36353,7 @@ Zap.defaultProps = {
 exports.default = Zap;
 
 /***/ }),
-/* 273 */
+/* 296 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -36702,7 +36415,7 @@ ZoomIn.defaultProps = {
 exports.default = ZoomIn;
 
 /***/ }),
-/* 274 */
+/* 297 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -36763,7 +36476,7 @@ ZoomOut.defaultProps = {
 exports.default = ZoomOut;
 
 /***/ }),
-/* 275 */
+/* 298 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -36786,7 +36499,7 @@ exports.default = ZoomOut;
     propertiesToRemove: ['(.*)transition(.*)', 'cursor', 'pointer-events', '(-webkit-)?tap-highlight-color', '(.*)user-select']
   }).then(async criticalCss => {
     try {
-      // fs.writeFileSync(operation.target, criticalCss)
+      __WEBPACK_IMPORTED_MODULE_0_fs___default.a.writeFileSync(operation.target, criticalCss);
       console.log(`Completed compilation in ${new Date().getTime() - startTimeMs}ms`);
     } catch (err) {
       throw new Error(err);

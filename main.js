@@ -48,3 +48,9 @@ app.on('activate', () => {
     createWindow()
   }
 })
+app.on('open-file', (e) => {
+  e.preventDefault()
+})
+app.on('open-url', (e) => {
+  e.preventDefault()
+})

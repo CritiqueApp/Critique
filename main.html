@@ -14,6 +14,16 @@
     const penthouse = require('penthouse')
 
     const bundleSelector = require('./src/bundleSelector.js')
+
+    document.addEventListener('drop', function(e) {
+      e.preventDefault()
+      e.stopPropagation()
+      console.log(e)
+    })
+    document.addEventListener('dragover', function(e) {
+      e.preventDefault()
+      e.stopPropagation()
+    })
     </script>
   </body>
 </html>

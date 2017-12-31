@@ -15,6 +15,7 @@
     "build": "webpack",
     "test": "node tests/main.js",
     "dist-all": "electron-builder --dir -mwl",
+    "dist-win": "electron-builder --dir -w",
     "dist-mac": "electron-builder --dir -m",
     "dist": "electron-builder --dir -mw"
   },
@@ -51,6 +52,12 @@
   "build": {
     "appId": "com.electron.critique",
     "mac": {
+      "asar": false
+    },
+    "win": {
+      "asar": false
+    },
+    "linux": {
       "asar": false
     }
   }

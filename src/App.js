@@ -26,7 +26,8 @@ export class App extends Component {
         }
       ],
       errors: [],
-      activeOperation: 0
+      activeOperation: 0,
+      status: ""
       }
     }
 
@@ -141,7 +142,7 @@ export class App extends Component {
       this.setState({errors: errors})
     }
 
-    this.setState({operations: this.modifiedOperations({running: false}, operation)})
+    this.setState({operations: this.modifiedOperations({running: false}, operation), status: `Completed operations '${operation.name}' at ${new Date()}`})
   }
 
   removeError(i) {
@@ -237,6 +238,7 @@ export class App extends Component {
         </div>
 
         <footer style={{display: 'flex-inline'}}>
+          {this.state.status}
           {/*<a href="https://www.leobite.nl/" onClick={(e)=>{e.preventDefault(); require('electron').shell.openExternal(e.currentTarget.href);}}><small><Icon.Link size={8}/>  leobite.nl/critique-app</small></a>*/}
         </footer>
       </div>

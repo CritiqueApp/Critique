@@ -15,19 +15,11 @@ export class App extends Component {
     if(localStorage.state) {
       this.state = JSON.parse(localStorage.state)
     } else {
-      this.state = {operations: [
-        {
-          source: remote.app.getPath('home') + '/project-name/css/sourcefile.css',
-          target: remote.app.getPath('home') + '/project-name/css/critical.css',
-          url: 'http://localhost/',
-          active: true,
-          name: "Operation " + (this.state.operations.length + 1),
-          running: false
-        }
-      ],
-      errors: [],
-      activeOperation: 0,
-      status: ""
+      this.state = {
+        operations: [],
+        errors: [],
+        activeOperation: 0,
+        status: ""
       }
     }
 

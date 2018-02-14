@@ -19477,16 +19477,11 @@ class App extends __WEBPACK_IMPORTED_MODULE_0_react__["Component"] {
     if (localStorage.state) {
       this.state = JSON.parse(localStorage.state);
     } else {
-      this.state = { operations: [{
-          source: __WEBPACK_IMPORTED_MODULE_3_electron__["remote"].app.getPath('home') + '/project-name/css/sourcefile.css',
-          target: __WEBPACK_IMPORTED_MODULE_3_electron__["remote"].app.getPath('home') + '/project-name/css/critical.css',
-          url: 'http://localhost/',
-          active: true,
-          name: "Operation " + (this.state.operations.length + 1),
-          running: false
-        }],
+      this.state = {
+        operations: [],
         errors: [],
-        activeOperation: 0
+        activeOperation: 0,
+        status: ""
       };
     }
 
@@ -19596,7 +19591,7 @@ class App extends __WEBPACK_IMPORTED_MODULE_0_react__["Component"] {
       this.setState({ errors: errors });
     }
 
-    this.setState({ operations: this.modifiedOperations({ running: false }, operation) });
+    this.setState({ operations: this.modifiedOperations({ running: false }, operation), status: `Completed operations '${operation.name}' at ${new Date()}` });
   }
 
   removeError(i) {
@@ -19740,7 +19735,11 @@ class App extends __WEBPACK_IMPORTED_MODULE_0_react__["Component"] {
         ops.length !== 0 && __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4__Operation__["a" /* Operation */], { o: ops[activeOp], changeOperation: this.changeOperation, removeOperation: this.removeOperation,
           runOperation: this.runOperation })
       ),
-      __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('footer', { style: { display: 'flex-inline' } })
+      __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+        'footer',
+        { style: { display: 'flex-inline' } },
+        this.state.status
+      )
     );
   }
 }

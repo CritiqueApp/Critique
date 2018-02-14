@@ -11,7 +11,7 @@
   "scripts": {
     "start": "electron --inspect=5858 .",
     "dev": "webpack-dev-server --port 1234",
-    "watch": "npm-watch compile",
+    "watch-css": "node-sass --watch src/style.sass --output . --output-style compressed --source-map true",
     "build": "webpack",
     "test": "node tests/main.js",
     "dist-all": "electron-builder --dir -mwl",
@@ -34,7 +34,7 @@
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-preset-react": "^6.24.1",
-    "electron": "^1.7.10",
+    "electron": "^1.8.2",
     "electron-builder": "^19.49.3",
     "node-sass": "^4.7.2",
     "npm-watch": "^0.3.0",
@@ -55,7 +55,8 @@
       "asar": false
     },
     "win": {
-      "asar": false
+      "asar": false,
+      "target": "squirrel"
     },
     "linux": {
       "asar": false
